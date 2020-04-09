@@ -1,0 +1,81 @@
+Vendor Promotion Terms SLA
+These Vendor Promotion Terms SLAs (“VENDOR PROMOTION SLAS”) effective as of the Start Date are subject to the Vendor Master Terms and Conditions located at set forth at https://www.verizonmedia.com/policies/us/en/verizonmedia/terms/vendor/mastertnc/index.html and are part of the Agreement. Except for terms defined herein, capitalized terms used and not defined herein shall have the meanings as set forth in the Agreement.
+
+AVAILABILITY AND MAINTENANCE.
+Availability. Except for Scheduled Maintenance, the Promotion Site will be available 24 hours per day, 7 days per week, with no Downtime in excess of 0.72 cumulative hours over a rolling thirty (30) day period (“Availability”). All Downtime will be reported to Purchaser as it occurs and measurements of Availability will be calculated on a monthly basis and provided to Purchaser within one (1) business day of Purchaser’s request.
+Maintenance.
+​Scheduled Maintenance. Vendor will send a written request to perform Scheduled Maintenance to Purchaser’s Project Manager and promotionsoperations@oath.com at least five (5) business days in advance of the day and time Vendor wishes to perform such maintenance. The written request will include: the start/end times, possible impact, fallback plans, if any, and such other information as may be reasonably necessary for Purchaser to ascertain the necessity for such maintenance. Purchaser will have two (2) business days to elect to defer any request for Scheduled Maintenance as outlined in section 1.2(c) below. Scheduled Maintenance may not occur more often than four (4) hours in any given month.
+Unscheduled Maintenance. Vendor will send written notice of any need to perform Unscheduled Maintenance to Purchaser’s Project Manager and promotionsoperations@oath.com at least 24 hours in advance of the day and time it wishes to perform such Unscheduled Maintenance. The written notice will include: the start/end times, possible impact, fallback plans, if any, and such other information as may be reasonably necessary for Purchaser to ascertain the urgency for such maintenance. Purchaser will have until 12:00 p.m., Eastern time, on the next business day to elect to defer any request for Unscheduled Maintenance, as outlined in section 1.2(c) below.
+Deferral. Purchaser may defer any Scheduled Maintenance or Unscheduled Maintenance to a subsequent Scheduled Maintenance window, provided that Purchaser will not defer maintenance which is necessary to ensure the security and/or integrity of the applicable Vendor Information Systems.
+Response Time; Capacity.
+​Promotion Site Monitoring. All Promotion Site(s) web pages will display in full with a response time goal of under six (6) seconds and a maximum response time of fifteen (15) seconds. Vendor will monitor each Promotion Site and, when any Promotion Site response time is greater than fifteen (15) seconds, will promptly: escalate the matter appropriately within Vendor’s organization, notify Purchaser in writing, and resolve the problem.
+Bandwidth. Vendor will provide sufficient network bandwidth to accommodate all traffic to the Promotion Site and maintain access to the Promotion Site in compliance with the Agreement. On a regular basis, Vendor will monitor the bandwidth capacity for utilization and notify Purchaser in writing when thresholds have been reached and an upgrade to capacity is required. Vendor will take prompt corrective action to accommodate the additional traffic to meet all performance commitments set forth in the Agreement.
+Network Delay. Vendor will utilize a network that maintains an average roundtrip POP-to-POP on-network delay of no greater than 75 milliseconds.
+Stress Testing. Purchaser reserves the right to stress test Vendor’s Information Systems at any time on 72 hours notice to Vendor in the event that Purchaser, in its sole discretion, determines the performance or response of Vendor’s Information Systems falls below a performance level Purchaser deems acceptable for the Promotion Services or Promotion Site(s). Vendor will provide at Purchaser’s reasonable request, all materials necessary (including test images) to enable Purchaser to determine Vendor’s ability to comply with its obligations under the Agreement.
+Capacity. If any of Vendor’s Information Systems, including CPU, disk space, RAM, or the network interface card, reaches ninety percent (90%) or more capacity for more than ten (10) minutes, then Vendor will take immediate corrective action with respect to those Information Systems, or portions thereof, under Vendor’s control. For equipment and software outside of Vendor’s control, Vendor will notify Purchaser of such problem within 60 minutes so that Purchaser may take or seek the necessary corrective action. For the purposes herein, “control” means the ability to direct or influence the related operations, directly or indirectly, including by virtue of contract or ownership of voting shares.
+ 
+PROBLEM RESOLUTION AND APPLICATION MAINTENANCE.
+In connection with the Promotion Services, Vendor will also address problem resolution and application maintenance through preventative maintenance and on-going maintenance to ensure reliability, fault tolerance, and disaster recovery. This includes backup/recovery activities, load/stress testing, disaster recovery testing, capacity planning, media management, and ongoing monitoring tasks and improvements. Vendor will conduct a semi-annual review of backup/recovery, load/stress testing, disaster recovery testing, and capacity planning and improvements.
+ 
+PROBLEM PRIORITY AND RESOLUTION GOALS.
+Vendor Personnel will be available to Purchaser and Advertisers 24 hours per day, 7 days per week, including holidays, for technical support and problem resolution. For each Priority 1 and Priority 2 Incidents Vendor will generate an incident ticket. Vendor will respond and begin problem correction as follows:​
+Priority 1 Incident. Vendor will respond and begin problem correction within 15 minutes following notification from Purchaser or Advertiser or detection by Vendor of a Priority 1 Incident. Vendor will diligently continue working until the Priority 1 Incident is cleared. See table below for examples.
+Priority 2 Incident. Vendor will respond and begin problem correction as soon as practical but no later than two (2) hours following notification from Purchaser or Advertiser or detection by Vendor of a Priority 2 Incident. Vendor will use best efforts to correct any Priority 2 Incidents in four (4) hours. Any Priority 2 Incidents will be upgraded to a Priority 1 Incident if not resolved after five (5) hours. See table below for examples.
+​
+Priority Type	Ticket Type	Description	Examples
+Priority 1
+Incident 	Trouble 	Single, multiple, or all Promotion Site outage greater than 15 minutes.
+
+Any application/URL response time greater than 30 seconds.
+
+Any transaction monitoring greater than 30 seconds.
+
+Any unauthorized access to the Promotion Site.	Multiple servers down
+
+Multiple circuit outage
+
+Application down
+ 
+Priority 2 Incident	Trouble 	
+Processing delays or single server outage.
+
+Minor functions unavailable
+
+Redundant partner servers down affecting response time.
+
+Secondary Router/switch problem
+
+INCIDENT NOTIFICATION AND ESCALATION PROCEDURES:
+ 
+
+Priority Type	Initial Notification	Escalation Path	Notification Method	Updates
+Priority 1 Incident	Within 16 minutes of identifying issue	promotionsoperations@oath.com	Email	Hourly Until Incident is cleared
+Priority 2 Incident	Within 60 minutes of identifying issue	promotionsoperations@oath.com	Email	Hourly until incident is cleared.
+REMEDIES; SLA CREDITS.
+
+In addition to other applicable remedies, in the event of breach of Section 1.1 or 1.3(a) of this SLA, Vendor will:(a) credit Purchaser with an amount equal to ten percent (10%) of the payment due to Vendor for the month in which such breach occurs, and (b) reimburse Purchaser for any expenses incurred by Purchaser as a result of such breach.
+
+Additionally, Purchaser may terminate the Promotion Services, in whole or in part, without a further cure period if: (x) any breach of Section 1 of this SLA is not cured within ten (10) days; (y) any subsection of Section 1 of this SLA is breached three (3) times; or (z) there are two (2) breaches of separate subsections of Section 1 of this SLA (even if cured) within any six (6)-month period.
+
+In the event that the Promotion Site or access to Promotion reporting is not available at least 99.9% of the time monthly during the term of the SOW, in addition to any other remedies, Purchaser may deduct from any payment due for the month in which such unavailability occurs, a percentage of the monthly aggregate charges applicable for such month, which amount will increase for each subsequent consecutive month during the term of the Agreement in which such unavailability occurs, as follows:
+ 
+
+Consecutive Month	Percentage Deduction
+First	10%
+Second 	20%
+Third or subsequent	30%
+ADDITIONAL DEFINITIONS.
+
+“Downtime” means any one-minute period during which Vendor does not process queries from the Promotion Site, excluding Scheduled Maintenance or a failure to process queries directly due to acts of Purchaser.
+
+“Priority 1 Incident” means any occurrence when the Promotion Site or Promotion Services are inoperable and the inability to use the Promotion Site or Promotion Services has a critical impact on Purchaser or Advertiser.
+
+“Priority 2 Incident” means any occurrence when the Promotion Site or Promotion Services are useable, but an essential component of the Promotion Site or Promotion Services is malfunctioning and substantially impacts Purchaser or Advertiser.
+
+“Scheduled Maintenance” means any upgrade, installation, or modification of the Information Systems (including the hosting infrastructure, operating system, or applications) that support the Promotion Site and/or Promotion Services that, subject to the Agreement, may be performed Wednesdays between the hours of 3:00 a.m. to 7:00 a.m. EST or as otherwise approved by Purchaser in writing in each instance.
+
+“Unscheduled Maintenance” means Downtime to conduct maintenance of the Information Systems (including the hosting infrastructure, operating system, or applications) that support the Promotion Site and/or Promotions Services to address critical security or availability issues on an emergency basis.
+
+***
+
+These Vendor Promotion SLAs were last updated February 1, 2020.

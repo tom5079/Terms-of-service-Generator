@@ -1,0 +1,14 @@
+WORKFORCE LOGIC TERMS
+ 
+These Work Force Logic Terms (“WFL Terms”), effective as of the Start Date, are subject to the Vendor Master Terms and Conditions located at https://policies.yahoo.com/us/en/yahoo/terms/vendor/mastertnc/index.html and are part of the Agreement. Except for terms defined herein, capitalized terms used herein are defined in the Vendor MTC.
+
+COMPENSATION & PAYMENT TERMS.
+Yahoo may use Workforce Logic (“WFL”), a third-party service provider, to administer all payments to Vendor.
+All invoices must be submitted to WFL using WFL’s Information Systems. WFL will submit all invoices to Yahoo for review and processing as outlined in the Vendor MTC.
+Upon receipt of Yahoo’s approval/payment of any Vendor invoice and subject to an administrative fee equal to one and one quarter percent (1.25%) of the invoice amount for each Vendor invoice up to a total of one and one quarter percent (1.25%) of the total service fees outlined in the SOW, WFL will make payment to Vendor within fifteen (15) days of receiving payment from Yahoo.
+CONFIDENTIALITY. To the extent Vendor performs services for Yahoo in Georgia, the restrictions contained in Section 5 of the Vendor MTC will apply to (a) information that qualifies as a trade secret under the Georgia Uniform Trade Secret Act for so long as such information remains a trade secret, and (b) Yahoo Confidential Information during the term of the applicable SOW and for a period of two (2) years following the termination for any reason of the applicable SOW.
+GENERAL PROVISIONS.
+Precedence. Except as indicated herein, terms in these WFL Terms supplement, but do not replace, terms in the Vendor MTC. In the case of inconsistency or conflict between the provisions of these WFL Terms and the Vendor MTC or any SOW, SLA, PLSS, or Change Order, the provisions of these WFL Terms will control. Notwithstanding the foregoing, a SOW or Change Order may amend these WFL Terms only if the amended terms contained in the SOW or Change Order: (i) apply only to the individual SOW or Change Order and not to any other SOW or Change Order, and (ii) specifically identify the provision(s) of these WFL Terms they amend.
+***
+
+These WFL Terms were last updated on May 12, 2009.

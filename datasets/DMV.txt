@@ -1,0 +1,150 @@
+Conditions of Use
+Thank you for visiting the State of California's website and reviewing our Conditions of Use Policy. You should also be aware that the State has a privacy policy, also available on this web site. The State wants you know about the collection, use, security, and access to information that may be obtained through use of the State's web portal. By visiting this web site, you are accepting the policies and practices described in this Notice. This notice covers the following topics:
+
+Personal Information and Choice
+A Special Note about Children
+Electronically Collected Personal Information and How it is Used
+What Happens to Information You Submit to Us
+Use of Internet Request for Assistance Form Information
+Surveys
+If You Send Us E-mail
+Order Forms
+Public Disclosure
+Discarding Electronically Collected Personal Information
+Automatic Collection of Information/Cookies
+Security
+Links to Other Sites
+Limitation of Liability
+Ownership
+Please note that this Use Policy is subject to change without notice, and that it reflects the State's current business practices. This policy is dated July 23, 2018.
+
+Also note that each department within the State may have additional privacy and use policies specific to the mission and needs of their work. Be sure to review those policies as you access additional sites within the State.
+
+Back to Top of Page
+
+Personal Information and Choice
+Under the Information Practices Act, “personal information” is information that “identifies or describes an individual, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, and medical or employment history.” Under the Driver’s Privacy Protection Act, “personal information” is information that identifies an individual, including an individual’s photograph, social security number, driver identification number, name, address (but not the 5-digit zip code), telephone number, and medical or disability information. Information regarding official government actions relating to a person’s driving privilege, such as records of convictions, driving violations, accidents, driver’s status, driver license suspensions, and revocations of the driving privilege, are open to public inspection under Vehicle Code section 1808 and are not a driver’s “personal information.”  A domain name or Internet Protocol address is also not considered personal information, however, it is considered "electronically collected personal information".
+
+According to Government Code § 11015.5, "Electronically collected personal information" means any information that is maintained by an agency that identifies or describes an individual user, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, medical or employment history, password, electronic mail address, and information that reveals any network location or identity, but excludes any information manually submitted to a state agency by a user, whether electronically or in written form, and information on or relating to individuals who are users, serving in a business capacity, including, but not limited to, business owners, officers, or principals of that business.  “Electronically collected personal information” does not include DMV’s receipt of the following information: conviction information received from the courts, accidents, a suspension or revocation of the driving privilege, or other official actions pertaining to the driving privilege.
+
+"Electronically collected personal information" we automatically collect includes your domain name or Internet Protocol address, and statistical information about which web pages you visit. If you voluntarily participate in an activity that asks for specific information (i.e. completing a request for assistance, personalizing the content of the web site, sending an e-mail or participating in a survey) more detailed data will be collected. If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the web site.
+
+Information that is requested on the web site or volunteered by the user may be a public record subject to public inspection and copying once you provide it unless it is otherwise protected by federal or state law.
+
+Additionally, departments and agencies of the State of California are required to adhere to the Privacy Policy which is also accessible on this web site. Please see Department of General Services Management Memo 00-14, effective January 1, 2001.
+
+Back to Top of Page
+
+A Special Note About Children
+Children are not eligible to use services that require submission of personal information and we require that minors (under the age of 18) do not submit any personal information to us. This includes submitting personal information to the State as part of a user profile or personalization profile. If you are a minor, you can use these services only if used together with your parents or guardians. If you are a minor you should seek guidance from your parents or guardians.
+
+If the state decides to begin collecting personal information from children, it will notify parents that it is being requested, disclose the reasons for collecting it, and disclose our intended use for it. The state will seek parental consent before collecting any personally identifiable information. If it does collect it, parents may request information on the type of data being collected, view their child's information and, if they choose, prohibit the state from making further use of their child's information. The state will not provide personal information about children to third parties.
+
+Back to Top of Page
+
+Electronically Collected Personal Information and How It Is Used
+We electronically collect information directly from individuals when they voluntarily use some of our DMV services on this web site. Collection of this information is required to deliver the specific services, but use of these services through the DMV web site is voluntary.
+
+If you do nothing during your visit to the web site, but browse or download information, we automatically collect and store the following information about your visit:
+
+The Internet Protocol Address and domain name used but not the e-mail address. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you and generate statistics used in the management of this site;
+The type of browser and operating system you used;
+The date and time you visited this site;
+The web pages or services you accessed at this site;
+The web site you visited prior to coming to this web site;
+The web site you visit as you leave this web site;
+If you downloaded a form, the form that was downloaded.
+Our web site logs do not identify a visitor by personal information, and we make no attempt to link other web sites with the individuals that browse the State's web site.
+
+However, if you access our online applications, we automatically collect and store your interaction with the application including the following:
+
+Information you input into form fields, including personal and confidential information
+Links you select
+Error messages you may receive
+If you access our mobile applications, we automatically collect and store the following additional information about your visit:
+
+Global Positioning System (GPS) data used for location-based services
+This information is used for customer service, and to provide statistical analysis for the improvement of the content and quality of our web services and applications.
+
+Government Code § 11015.5 (6) prohibits all state agencies from distributing or selling any electronically collected personal information as defined above, about users to any third party without the permission of the user. The State does not sell any "electronically collected personal information". Any distribution of "electronically collected personal information" will be solely for the purposes for which it was provided to us.
+The State may provide or distribute certain lists and statistical reports of regulatory information as provided by law, but no electronically collected personal information is sold or distributed and all relevant legal protections still apply to the State's web sites.
+
+Back to Top of Page
+
+What Happens to Information You Submit to Us?
+If you choose to submit information to us the information will be transmitted through secure lines to our departmental database. Any private information will only be used for the purposes for which it was provided and will not be shared with another entity except as prescribed by law. Please see our Privacy Policy for additional information.
+
+Back to Top of Page
+
+Use of Internet Request for Assistance Form Information
+Any information you provide to us will only be shared with entities involved in your case as necessary. Information you provide may be included with other consumers' information to be used for statistical reporting, trending data, and/or investigative actions. For example, we may need to retain information that becomes part of an enforcement action or consumer complaint case for a period of time after the closing date of the case.
+
+If you provide us with information regarding an issue that does not fall within our regulatory jurisdiction, we may refer your information to the appropriate local, state, or federal agency on your behalf.
+
+Back to Top of Page
+
+Surveys
+If during your visit to the State's web site you participate in a survey or send an e-mail, the following additional information will be collected:
+
+The e-mail address and contents of the e-mail; and
+Information volunteered in response to the survey.
+The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
+
+The information is retained in accordance with Government Code § 11015.5.
+
+Back to Top of Page
+
+If You Send Us Email
+You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other State employees who may be better able to help you, and this staff may be employed by a different agency within the State. Except for authorized law enforcement investigations or as required by law, we do not share our e-mail with any other organizations.
+
+We use your e-mail to respond appropriately. This may be to respond to you, to address issues you identify, to further improve our web site, or to forward the e-mail to another agency for appropriate action.
+
+Back to Top of Page
+
+Order Forms
+If you place an order with us, we request information from the user on our order form. A user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date]. This information is used for billing purposes and to fill your order/request. If we have trouble processing an order, this contact information is used to get in touch with you.
+
+Back to Top of Page
+
+Public Disclosure
+In the State of California, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, state and federal laws provide exceptions to the public's right to access public records depending on the information contained therein.
+
+Back to Top of Page
+
+Discarding Electronically Collected Personal Information
+Under Government Code § 11015.5, the user of this website may choose to have electronically collected personal information discarded without reuse or distribution, provided the user contacts the DMV in a timely fashion.
+
+Back to Top of Page
+
+Automatic Collection of Information/Cookies
+Cookies are simple text files stored on your computer by your web browser. The main State portal does not use cookies to maintain personalization, however some departmental applications may.
+
+The State makes every attempt to avoid the use of cookies. When needed to maintain the functionality of an application, unlike the common usage of cookies, the State only uses cookies during the session in which you access our interactive applications.
+
+Cookies created on your computer by using this web site do not contain "personal information" and do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying temporary tag on your computer. You can refuse the cookie or delete the cookie file from your computer by using any of the widely available methods. However, if you turn your cookie option off you may not be able to access some of the features in our interactive applications.
+
+Back to Top of Page
+
+Security
+The State, as developer and manager of this web site, has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire State operating environment as part of its continuing commitment to risk management. This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the State's supported web site. The technical standards governing security are enforced by the Department of Information Technology.
+
+Back to Top of Page
+
+Links to Other Sites
+Our web site has links to sites we felt might be useful to you and which may provide services. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+
+This web site and the information it contains are provided as a public service by the State of California. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for comparable purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
+
+Back to Top of Page
+
+Limitation of Liability
+The State attempts to maintain the highest accuracy of content on its web site. Any errors, or omissions should be reported for investigation.
+
+The State makes no claims, promises or guarantees about the absolute accuracy, completeness, or adequacy of the contents of this web site and expressly disclaims liability for errors and omissions in the contents of this web site. No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this web site or its hyperlinks to other Internet resources. Reference in this web site to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the State of California, or their employees or agents.
+
+This Use Policy is subject to change without notice.
+
+Back to Top of Page
+
+Ownership
+In general, information presented on this web site, unless otherwise indicated, is considered in the public domain. It may be distributed or copied as permitted by law. However, the State does make use of copyrighted data (e.g., photographs) which may require additional permissions prior to your use. Furthermore, the unique branding of the site and various official seals and marks may not be used without permission of the State. In order to use any information on this web site not owned or created by the State you must seek permission directly from the owning (or holding) sources. The State shall have the unlimited right to use for any purpose, free of any charge, all information submitted via this site except those submissions made under separate legal contract. The State shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided through this site.

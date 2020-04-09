@@ -1,0 +1,476 @@
+Adobe General Terms of Use
+ 
+
+Last updated June 5, 2018. Replaces all prior versions.
+
+ 
+
+These General Terms of Use ("General Terms"), along with any applicable Additional Terms (see section 1.2 below) and the Subscription and Cancellation terms (collectively "Terms") govern your use of our website, customer support, and services such as Creative Cloud (collectively “Services”) and software that we include as part of the Services, as well as any applications, Sample Files and Content Files (defined below), scripts, source code, instruction sets, and related documentation (collectively “Software”). If you have entered into another agreement with us concerning specific Services or Software, then the terms of that agreement control where it conflicts with the Terms. As discussed more in section 4 below, you retain all rights and ownership you have in your Content (defined below).
+
+ 
+
+You must be 13 or older to register for an individual Adobe ID. Schools that participate in the primary and secondary education named user offering may issue a child under 13 an enterprise-level Adobe ID, but only after obtaining express parental consent.
+
+ 
+
+1. Your Agreement with Adobe.
+
+ 
+
+1.1 Choice of Law and Contracting Entity. If you reside in North America (inclusive of United States, Canada, and Mexico), your relationship is with Adobe Inc., a United States company, and the Terms are governed by the law of California, U.S.A. If you reside outside of North America, your relationship is with Adobe Systems Software Ireland Limited, and the Terms are governed by the law of Ireland. For customers in Australia, Adobe Systems Software Ireland Limited is acting as an authorized agent of Adobe Systems Pty Ltd. and is entering into this contract in its capacity as agent for Adobe Systems Pty Ltd. You may have additional rights under the law. We do not seek to limit those rights where it is prohibited to do so by law.
+
+ 
+
+1.2 Additional Terms. Our Services and Software are licensed, not sold, to you, and may also be subject to one or more of the additional terms below ("Additional Terms"). If there is any conflict between the terms in the General Terms and the Additional Terms, then the Additional Terms govern in relation to that Service or Software. The Additional Terms are subject to change.
+
+Adobe Developer
+
+Adobe Stock Contributor
+
+Demo Assets
+
+K-12 (Primary and Secondary) Education 
+
+Adobe Fonts
+
+Behance
+
+Document Cloud
+
+Medium
+
+Adobe Sign
+
+Business Catalyst
+
+Fuse
+
+Software
+
+Adobe Spark
+
+Business Users
+
+InDesign Server
+Substance
+
+Adobe Stock
+
+ 
+ 
+ 
+ 
+2. Privacy.
+ 
+
+2.1 Privacy. For information about how we collect, use, share or otherwise process information about you, please see our Privacy Policy at http://www.adobe.com/go/privacy. 
+
+ 
+
+2.2 Desktop Application Usage Information. You have the option to share information with us about how you use our desktop applications. Where permitted by law, this option is turned on by default, and the information is associated with your Adobe account. This information allows us to provide you with a more personalized experience and helps us to improve product quality and features. You can change your preference any time on your Adobe Account Management page. To learn more about desktop application usage data, go to http://www.adobe.com/go/app_usage_FAQ.
+
+ 
+
+2.3 Our Access to Your Content. Where permitted by law, we will only access, view, or listen to your Content (defined in section 4.1 below) in limited ways. For example, in order to perform the Services, we may need to access, view, or listen to your Content to (a) respond to support requests; (b) detect, prevent, or otherwise address fraud, security, unlawful, or technical issues; and (c) enforce the Terms. Our automated systems may analyze your Content using techniques such as machine learning. This analysis may occur when the Content is sent, received, or stored. From this analysis, we are able to improve the Services. To learn more about the machine learning we do, go to http://www.adobe.com/go/machine_learning.
+
+ 
+
+3. Use of Services and Software.
+
+ 
+
+3.1 License. Subject to your compliance with the Terms and the law, you may access and use the Services and Software.
+
+ 
+
+3.2 Adobe Intellectual Property. We (and our licensors) remain the sole owner of all right, title, and interest in the Services or Software. Except as stated in the Terms, we do not grant you any rights to patents, copyrights, trade secrets, trademarks, or any other rights in respect to the items in the Services or Software. We reserve all rights not granted under the Terms.
+
+ 
+
+3.3 Storage. When the Services provide storage, we recommend that you also back up your Content elsewhere regularly. We may create reasonable technical limits on file size, storage space, processing capacity, and other technical limits. We may suspend the Services until you are within the storage space limit associated with your account. At the end of your license term, we will use commercially reasonable efforts to allow you to transition your Content out of the Services. The transition must be completed within 30 days from the date of the termination or expiration of your license term. At the end of this 30-day transition period, we reserve the right to delete your Content.
+
+ 
+
+3.4 User-Generated Content. We may host user-generated content from our users. If you access our Services, you may come across user-generated content that you find offensive or upsetting. Your sole remedy is to stop viewing the content. If available, you may also click on the “Report” button to report the offensive user-generated content to us.
+
+ 
+
+3.5 Sample Files. “Sample Files” means Adobe-provided files such as content images, clip art, stock images, or sounds for use in tutorials, demonstrations, and for other trial purposes, which may be identified as sample files. Sample Files cannot be used for any other purpose than for which they were provided. You cannot distribute Sample Files on a stand-alone basis (i.e., in circumstances in which the Sample Files constitute the primary value of the product being distributed), and you cannot claim any rights in the Sample Files.
+
+ 
+
+3.6 Content Files. "Content Files" means Adobe assets provided as part of the Services and Software. Unless documentation or specific licenses state otherwise, we grant you a personal, non-exclusive, non-sublicensable, and non-transferable license to use the Content Files to create your end use (i.e., the derivative application or product authored by you) into which the Content Files, or derivations thereof, are embedded for your use ("End Use"). You may modify the Content Files prior to embedding them in the End Use. You may reproduce and distribute Content Files only in connection with your End Use, however, under no circumstances can you distribute the Content Files on a stand-alone basis, outside of the End Use.
+
+ 
+
+3.7 Other License Types.
+
+ 
+
+(a) NFR Version. We may designate the Services or Software as “trial,” “evaluation,” “not for resale,” or other similar designation (“NFR Version”). You may install and use the NFR Version only for the period and purposes stated when we provide the NFR Version. You must not use any materials you produce with the NFR Version for any commercial purposes.
+
+ 
+
+(b) Prerelease Version. We may designate the Services or Software, or a feature of the Services or Software, as a prerelease or beta version (“Prerelease Version”). A Prerelease Version does not represent the final product and may contain bugs that may cause system or other failure and data loss. We may choose not to commercially release the Prerelease Version. You must promptly cease using the Prerelease Version and destroy all copies of Prerelease Version if we request you to do so, or if we release a commercial version of the Prerelease Version. Any separate agreement we enter into with you governing the Prerelease Version will supersede these provisions.
+
+ 
+
+(c) Education Version. If we designate the Services or Software as for use by educational users (“Educational Version”), then you may only use the Educational Version if you meet the eligibility requirements stated at http://www.adobe.com/go/primary-secondary-institution-eligibility-guidelines. You may install and use the Educational Version only in the country where you are qualified as an educational user. If you reside in the European Economic Area, then the word “country” in the prior sentence means the European Economic Area.
+
+ 
+
+4. Your Content.
+
+ 
+
+4.1 Content. "Content" means any material, such as audio files, video files, electronic documents, or images, that you upload and import into the Services or Software in connection with your use of the Services.
+
+ 
+
+4.2 Ownership. You retain all rights and ownership of your Content. We do not claim any ownership rights to your Content.
+
+ 
+
+4.3 Licenses to Your Content in Order to Operate the Services and Software. We require certain licenses from you to your Content in order to operate and enable the Services and Software. When you upload Content to the Services and Software, you grant us a nonexclusive, worldwide, royalty-free, sublicensable, and transferable license to use, reproduce, publicly display, distribute, modify (so as to better showcase your Content, for example), publicly perform, and translate the Content as needed in response to user driven actions (such as when you choose to privately store or share your Content with others). This license is only for the purpose of operating or improving the Services and Software.
+
+ 
+
+4.4 Sharing Your Content.
+
+ 
+
+(a) Sharing. Some Services and Software may provide features that allow you to Share your Content with other users or to make it public. “Share” means to email, post, transmit, upload, or otherwise make available (whether to us or other users) through your use of the Services and Software. Other users may use, copy, modify, or re-share your Content in many ways. Please carefully consider what you choose to Share or make public as you are responsible for the Content that you Share.
+
+ 
+
+(b) Level of Access. We do not monitor or control what others do with your Content. You are responsible for determining the limitations that are placed on your Content and for applying the appropriate level of access to your Content. If you do not choose the access level to apply to your Content, the system may default to its most permissive setting. It is your responsibility to let other users know how your Content may be shared and to adjust the setting related to accessing or sharing your Content.
+
+ 
+
+(c) Comments. The Services and Software may allow you to comment on Content. Comments are not anonymous, and may be viewed by other users. Your comments may be deleted by you, other users, or us.
+
+ 
+
+4.5 Termination of License. You may revoke this license to your Content and terminate our rights at any time by removing your Content from the Service. Some copies of your Content may be retained as part of our routine backups, however.
+
+ 
+
+4.6 Feedback. You have no obligation to provide us with ideas, suggestions, or proposals (“Feedback”). If you submit Feedback to us however, then you grant us a non-exclusive, worldwide, royalty-free, sublicensable, and transferable license to make, use, sell, have made, offer to sell, import, reproduce, publicly display, distribute, modify, and publicly perform the Feedback.
+
+ 
+
+4.7 Selling Your Content. We may allow you to license your Content to other users through our Services after agreeing to separate terms.
+
+ 
+
+5. Account Information.
+
+ 
+
+You are responsible for all activity that occurs via your account. Please notify Customer Support immediately if you become aware of any unauthorized use of your account. You may not (a) Share your account information (except with an authorized account administrator); or (b) use another person’s account. Your account administrator may use your account information to manage your use and access to the Services and Software. For PhoneGap, we reserve the right to monitor and enforce subscription plan limits and restrictions, including, but not limited to, the right to charge for overages.
+
+ 
+
+6. User Conduct.
+
+ 
+
+6.1 Responsible Use. The Adobe communities often consist of users who expect a certain degree of courtesy and professionalism. You must use the Services and Software responsibly.
+
+ 
+
+6.2 Misuse. You must not misuse the Services or Software. For example, you must not:
+
+ 
+
+(a) copy, modify, host, stream, sublicense, or resell the Services or Software;
+
+ 
+
+(b) enable or allow others to use the Services or Software using your account information;
+
+ 
+
+(c) use the Software to construct any kind of database;
+
+ 
+
+(d) access or attempt to access the Services or Software by any means other than the interface we provide or authorize;
+
+ 
+
+(e) circumvent any access or use restrictions put into place to prevent certain uses of the Services or Software;
+
+ 
+
+(f) share Content, or engage in behavior that violates anyone’s intellectual property rights (“Intellectual Property Rights” means copyright, moral rights, trademark, trade dress, patent, trade secret, unfair competition, right of privacy, right of publicity, and any other proprietary rights);
+
+ 
+
+(g) upload or share any Content that is unlawful, harmful, threatening, abusive, tortious, defamatory, libelous, vulgar, lewd, profane, invasive of another’s privacy, or hateful;
+
+ 
+
+(h) impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+
+ 
+
+(i) attempt to disable, impair, or destroy the Services and Software;
+
+ 
+
+(j) upload, transmit, store, or make available any Content or code that contains any viruses, malicious code, malware, or any components designed to harm or limit the functionality of the Services or Software;
+
+ 
+
+(k) disrupt, interfere with, or inhibit any other user from using the Services or Software (such as stalking, intimidating, or harassing others, inciting others to commit violence, or harming minors in any way);
+
+ 
+
+(l) engage in chain letters, junk mails, pyramid schemes, phishing, spamming, or other unsolicited messages;
+
+ 
+
+(m) place an advertisement of any products or services in the Services except with our prior written approval;
+
+ 
+
+(n) use any data mining or similar data gathering and extraction methods in connection with the Services; or
+
+ 
+
+(o) violate applicable law (including, but not limited to, where applicable, COPPA).
+
+ 
+
+7. Fees and Payment.
+
+ 
+
+7.1 Taxes and Third-Party Fees. You must pay any applicable taxes and third-party fees (including, for example, telephone toll charges, mobile carrier fees, ISP charges, data plan charges, credit card fees, foreign exchange fees, and foreign transaction fees). We are not responsible for these fees. Contact your financial institution with questions about fees. We may take steps to collect the fees you owe us. You are responsible for all related collection costs and expenses. If you are located in a different country from the applicable Adobe entity that you are transacting with (i.e., Adobe Inc. for North American customers and Adobe Systems Software Ireland Limited for customers in all other countries), your payments will be made to a foreign entity.
+
+ 
+
+7.2 Credit Card Information. If you do not notify us of updates to your payment method, to avoid interruption of your service, we may participate in programs supported by your card provider to try to update your payment information. You authorize us to continue billing your account with the updated information that we obtain.
+
+ 
+
+8. Your Warranty and Indemnification Obligations.
+
+ 
+
+8.1 Warranty. By uploading your Content to the Services or Software, you agree that you have: (a) all necessary licenses and permissions to use and Share your Content; and (b) the rights necessary to grant the licenses in the Terms.
+
+ 
+
+8.2 Indemnification. You will indemnify us and our subsidiaries, affiliates, officers, agents, employees, partners, and licensors from any claim, demand, loss, or damage, including reasonable attorneys’ fees, arising out of or related to your Content, your use of the Services or Software, or your violation of the Terms.
+
+ 
+
+9. Disclaimers of Warranties.
+
+ 
+
+9.1 Unless stated in the Additional Terms, the Services and Software are provided “AS-IS.” To the maximum extent permitted by law, we disclaim all warranties, express or implied, including the implied warranties of non-infringement, merchantability, and fitness for a particular purpose. We make no commitments about the content within the Services. We further disclaim any warranty that (a) the Services or Software will meet your requirements or will be constantly available, uninterrupted, timely, secure, or error-free; (b) the results obtained from the use of the Services or Software will be effective, accurate, or reliable; (c) the quality of the Services or Software will meet your expectations; or (d) any errors or defects in the Services or Software will be corrected.
+
+ 
+
+9.2 We specifically disclaim all liability for any actions resulting from your use of any Services or Software. You may use and access the Services or Software at your own discretion and risk, and you are solely responsible for any damage to your computer system or loss of data that results from the use of and access to any Service or Software.
+
+ 
+
+9.3 If you post your Content on our servers to publicly Share through the Services, we are not responsible for: (a) any loss, corruption, or damage to your Content; (b) the deletion of Content by anyone other than Adobe; or (c) the inclusion of your Content by third parties on other websites or other media.
+
+ 
+
+10. Limitation of Liability.
+
+ 
+
+10.1 Unless stated in the Additional Terms, we are not liable to you or anyone else for any loss of use, data, goodwill, or profits, whatsoever, and any special, incidental, indirect, consequential, or punitive damages whatsoever, regardless of cause (even if we have been advised of the possibility of the loss or damages), including losses and damages (a) resulting from loss of use, data, or profits, whether or not foreseeable; (b) based on any theory of liability, including breach of contract or warranty, negligence or other tortious action; or (c) arising from any other claim arising out of or in connection with your use of or access to the Services or Software. Nothing in the Terms limits or excludes our liability for gross negligence, for our, or our employees’, intentional misconduct, or for death or personal injury.
+
+ 
+
+10.2 Our total liability in any matter arising out of or related to the Terms is limited to US $100 or the aggregate amount that you paid for access to the Service and Software during the three-month period preceding the event giving rise to the liability, whichever is larger. This limitation will apply regardless of the form or source of claim or loss, whether the claim or loss was foreseeable, and whether a party has been advised of the possibility of the claim or loss.
+
+ 
+
+10.3 The limitations and exclusions in this section 10 apply to the maximum extent permitted by law.
+
+ 
+
+11. Termination.
+
+ 
+
+11.1 Termination by You. You may stop using the Services and Software at any time. Termination of your account does not relieve you of any obligation to pay any outstanding fees.
+
+ 
+
+11.2 Termination by Us. If we terminate the Terms, or your use of the Service(s) for reasons other than for cause, we will make reasonable efforts to notify you at least 30 days prior to termination via the email address you provide to us with instructions on how to retrieve your Content. Unless stated in any Additional Terms, we may, at any time, terminate your right to use and access the Services or Software if:
+
+(a) you breach any provision of the Terms (or act in a manner that clearly shows you do not intend to, or are unable to, comply with the Terms);
+
+ 
+
+(b) you fail to make the timely payment of fees for the Services or Software, if any
+
+(c) you materially breach any provision of the Terms, and (i) the breach cannot be corrected; or (ii) we notify you of the breach and you fail to correct it within 14 days of the notice;
+
+ 
+
+(d) you physically, verbally, or through other means abuse, threaten, bully, or harass us or our personnel (in such circumstances, we may alternatively suspend or restrict your access to the Services or Software);
+
+ 
+
+(e) you have repeatedly made complaints in bad faith or without a reasonable basis, and continue to do so after we have asked you to stop (in such circumstances, we may alternatively suspend or restrict your access to the Services or Software);
+
+ 
+
+(f) we are required to do so by law (for example, where the provision of the Services or Software to you is, or becomes, unlawful);
+
+ 
+
+(g) we elect to discontinue the Services or Software, in whole or in part (such as if it becomes impractical for us to continue offering Services in your region due to change of law); or
+
+ 
+
+(h) there has been an extended period of inactivity in your free account.
+
+ 
+
+11.3 Termination by Group Administrator. Group administrators for a Service such as “Creative Cloud for teams” may terminate a user’s access to a Service at any time. If your group administrator terminates your access, then you may no longer be able to access Content that you or other users of the group have shared on a shared workspace within that Service.
+
+ 
+
+11.4 Survival. Upon the expiration or termination of the Terms, some or all of the Services and Software may cease to operate without prior notice. Any perpetual licenses you have will continue in full force and effect, however. Your indemnification obligations, our warranty disclaimers or limitations of liabilities, and dispute resolution provisions stated in the Terms will survive. 
+
+ 
+
+12. Investigations.
+
+ 
+
+12.1 Screening. We do not review all content uploaded to the Services or Software, but we may use available technologies, vendors, or processes to screen for certain types of illegal content (for example, child pornography) or other abusive content or behavior (for example, patterns of activity that indicate spam or phishing, or keywords that indicate adult content has been posted outside of the adult wall).
+
+ 
+
+12.2 Disclosure. We may access or disclose information about you or your use of the Services or Software: (a) when it is required by law (such as when we receive a valid subpoena or search warrant); (b) to respond to your requests for customer service support; or (c) when we, in our discretion, think it is necessary to protect the rights, property, or personal safety of us, our users, or the public.
+
+ 
+
+13. Trade Control Laws.
+
+ 
+
+The Services or Software and your use of the Services and Software, are subject to U.S. and international laws, restrictions, and regulations that may govern the import, export, and use of the Services and Software. You agree to comply with all the laws, restrictions, and regulations.
+
+ 
+
+14. Australian Consumer Law. 
+
+ 
+
+Nothing in the Terms is intended to exclude, restrict, or modify any consumer rights under the Competition and Consumer Act 2010 (Cth) (CCA) or any other legislation which may not be excluded, restricted, or modified by agreement. If the CCA or any other legislation implies a condition, warranty, or term into the Terms or provides statutory guarantees in connection with the Terms, in respect of goods or services supplied (if any), our liability for breach of such a condition, warranty, other term or guarantee is limited (at our election), to the extent it is able to do so: (a) in the case of supply of goods, us doing any one or more of the following: (i) replacing the goods or supplying equivalent goods; (ii) repairing the goods; (iii) paying the cost of replacing the goods or of acquiring equivalent goods; and (iv) paying the cost of having the goods repaired; or (b) in the case of supply of services, our doing either or both of the following: (i) supplying the services again; and (ii) paying the cost of having the services supplied again.
+
+ 
+
+15. Dispute Resolution.
+
+ 
+
+15.1 Process. If you have any concern or dispute, you agree to first try to resolve the dispute informally by contacting us. If a dispute is not resolved within 30 days of submission, any resulting legal actions must be resolved through final and binding arbitration, except that you may assert claims in small claims court if your claims qualify.
+
+ 
+
+15.2 Rules. If you reside in the Americas, JAMS will administer the arbitration in Santa Clara County, California pursuant to its Comprehensive Arbitration Rules and Procedures. If you reside in Australia, New Zealand, Japan, mainland China, Hong Kong S.A.R., Macau S.A.R., Taiwan, South Korea, India, Sri Lanka, Bangladesh, Nepal, or a member state of the Association of Southeast Asian Nations (ASEAN), then the Singapore International Arbitration Centre (SIAC) will administer the arbitration in Singapore under its Rules of Arbitration, which rules are deemed to be incorporated by reference in this section. Otherwise, the London Court of International Arbitration (LCIA) will administer the arbitration in London under the LCIA Arbitration Rules. There will be one arbitrator that you and Adobe mutually select. The arbitration will be conducted in the English language, but any witness whose native language is not English may give testimony in the witness’ native language, with simultaneous translation into English (at the expense of the party presenting the witness). Judgment upon the award rendered may be entered and will be enforceable in any court of competent jurisdiction having jurisdiction over you and us.
+
+ 
+
+15.3 No Class Actions. You may only resolve disputes with us on an individual basis, and you may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action.
+
+ 
+
+15.4 Injunctive Relief. Notwithstanding the foregoing, in the event of your or others’ unauthorized access to or use of the Services or Software in violation of the Terms, you agree that we are entitled to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+
+ 
+
+16. Audit Rights.
+
+ 
+
+If you are a business, company, or organization, then we may, no more than once every 12 months, upon seven 7 days’ prior notice to you, appoint our personnel or an independent third-party auditor who is obliged to maintain confidentiality to inspect (including manual inspection, electronic methods, or both) your records, systems, and facilities to verify that your installation and use of any and all Services or Software is in conformity with its valid licenses from us. Additionally, you will provide us with all records and information requested by us within 30 days of our request in order for us to verify that the installation and use of any and all Services and Software is in conformity with your valid licenses. If the verification discloses a shortfall in licenses for the Services or Software, you will immediately acquire any necessary licenses, subscriptions, and applicable back maintenance and support. If the underpaid fees exceed 5% of the value of the payable license fees, then you will also pay for our reasonable cost of conducting the verification.
+
+ 
+
+17. Updates and Availability.
+
+ 
+
+17.1. Updates to the General Terms and Additional Terms. We may modify these General Terms, any Additional Terms or Subscription and Cancellation terms, for example, to reflect changes to the law or changes to our Services or Software. You should look at the Terms regularly. We will post notice of modifications to these General Terms and Additional Terms on this page. By continuing to use or access the Services or Software after the revisions are in effect, you agree to be bound by the revised Terms.
+
+ 
+
+17.2. Updates to the Services and Software. We may modify, update, or discontinue the Services or Software (including any portions or features) at any time, without liability to you or anyone else. However, for changes to paid offerings, we will make reasonable efforts to notify you of the modification, update or discontinuation. If we discontinue the Services or Software in its entirety, we will also allow you a reasonable time to download your Content and we may provide you with a pro rata refund for any unused fees for that Service or Software that you prepaid.
+
+ 
+
+17.3. Availability. Webpages describing the Services are accessible worldwide, but this does not mean all Services or service features are available in your country or that user-generated content available via the Services is legal or available in your country. Access to certain Services (or certain Service features, Sample Files or Content Files) in certain countries may be blocked by us or foreign governments. It is your responsibility to make sure your use of the Services is legal or available where you use them. Services are not available in all languages.
+
+ 
+
+18. No Modifications, Reverse Engineering.
+
+ 
+
+Except as expressly permitted in the Terms, you may not (a) modify, port, adapt or translate any portion of the Services or Software; or (b) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code or any portion of any Service or Software.  If the laws of your jurisdiction give you the right to decompile the Software to obtain information necessary to render the licensed portions of the Services or Software interoperable with other software, you must first request such information from us.  We may, in our discretion, either provide such information to you or impose reasonable conditions, including a reasonable fee, on your decompilation of the Services or Software to ensure that our and our suppliers’ proprietary rights in the Services and Software are protected.
+
+19. Miscellaneous.
+
+ 
+
+19.1 English Version. The English version of the Terms will be the version used when interpreting or construing the Terms.
+
+ 
+
+19.2 Notice to Adobe. You may send notices to us at the following address: Adobe Inc., 345 Park Avenue, San Jose, California, 95110-2704, USA, Attention: General Counsel.
+
+ 
+
+19.3 Notice to You. We may notify you by email, postal mail, postings within the Services, or other legally accepted means.
+
+ 
+
+19.4 Non-Assignment. You may not assign or otherwise transfer the Terms or your rights and obligations under the Terms, in whole or in part, without our written consent, and any such attempt will be void. We may transfer our rights under the Terms to a third party.
+
+ 
+
+19.5 Headings. Headings used in these General Terms or Additional Terms are provided for convenience only and will not be used to construe meaning or intent.
+
+ 
+
+19.6 Severability. If any provision of these General Terms or any Additional Terms is held invalid or unenforceable for any reason, the General Terms and any Additional Terms will continue in full force and effect. 
+
+ 
+
+19.7 No Waiver. Our failure to enforce or exercise any provision of the Terms is not a waiver of that provision.
+
+ 
+
+20. DMCA.
+
+ 
+
+We respect the Intellectual Property Rights of others and we expect our users to do the same. We will respond to clear notices of copyright infringement consistent with the Digital Millennium Copyright Act (“DMCA”). You can learn more about Adobe's IP Takedown policies and practices here: http://www.adobe.com/legal/dmca.html.
+
+ 
+
+Adobe Inc.: 345 Park Avenue, San Jose, California 95110-2704
+
+ 
+
+Adobe Systems Software Ireland Limited: 4-6 Riverwalk, City West Business Campus, Saggart, Dublin 24
+
+ 
+
+Adobe_General_Terms_of_Use-en_US-20180605_2200

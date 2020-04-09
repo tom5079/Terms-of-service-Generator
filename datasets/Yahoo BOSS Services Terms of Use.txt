@@ -1,0 +1,218 @@
+Yahoo BOSS Services Terms of Use
+ 
+Contents:
+
+A. Terms Applicable to All Services
+B. Terms for Specific Services
+
+BOSS Search Services.
+BOSS Geo Services.
+A. Terms Applicable to All Services
+
+1. TERMS – GENERAL DESCRIPTION AND ACCEPTANCE OF TERMS
+
+(a) Welcome to Yahoo BOSS Services. This Yahoo BOSS Services Terms of Use (“TOU”) is a binding agreement between Oath Holdings Inc. (“Yahoo”) and You and, if applicable, the company or other legal entity You represent (collectively, "You" or “Your”). This TOU incorporates (1) the Yahoo Terms of Service ("TOS"), (2) the Terms for Specific Services (“TSS”), (3) any pricing and payment terms (“Pricing and Payment Terms”) applicable to the Services (see “Fees and Payment” below), and (4) any applicable guidelines, documentation or requirements, technical, operational, or otherwise (“Guidelines”) relating to the Services, as may be published by Yahoo from time to time.
+
+(b) By applying for an Application ID or, if applicable, downloading Services-related materials such as software, or accepting any modification to this TOU in accordance with Section 1(c) below, You agree to be bound by the terms and conditions of this TOU. If You are entering into this TOU on behalf of a company or other legal entity, You represent that You have the legal authority to bind the legal entity to this TOU, in which case “You” or “Your” means that entity. If You do not have this authority, or if You do not agree with the terms and conditions of this TOU, You must not apply for an Application ID, and You may not use the Services or any Services-related materials. IF YOU DO NOT ACCEPT AND AGREE TO THIS TOU, DO NOT COMPLETE THE REGISTRATION PROCESS OR USE THE SERVICES.
+
+(c) Yahoo reserves the right to update and change, from time to time, this TOU and all documents incorporated by reference. Any revised terms will be effective on posting (unless expressly stated otherwise at the time of posting). If any modification is unacceptable to You, Your only recourse is to stop using the Services. Your continued use of the Services after any posted update or change will constitute Your binding acceptance to the update or change. Any new features, functionality, modifications, or enhancements to the Services will be subject to this TOU. If any inconsistency exists between this TOU and the TOS, this TOU controls.
+
+2. REQUIREMENTS
+
+(a) Application ID. You must use instructions provided to place partner identification information (”Application ID”) into Your Offering. You may only create a single Application ID for Your Offering, and that Application ID must accompany all web services requests coming from Your Offering. You must provide accurate identification, contact, and other information required as part of the registration process. You must not create any script or other automated tool that attempts to create multiple Application IDs. You are fully responsible for all activities that occur under Your account identifiers, regardless of whether the activities are undertaken by You or a third party. Application IDs are for Your use only, and You may not sell, transfer, sublicense, or otherwise disclose Your private key to any other party. However, if Your Offering is a software application designed to be distributed to users, You may include the Application ID within Your Offering, provided that: (a) the same Application ID issued for Your Offering must be deployed in each instance of the software application; (b) the Application ID (or any portion) must never be accessible or otherwise displayed or discoverable; and (c) You must not allow any third party to, copy, decompile, disassemble or otherwise reverse engineer Your Offering in a manner which may lead to the discovery of the Application ID.
+
+(b) You will comply with all Guidelines as made available by Yahoo and updated by Yahoo from time to time. You acknowledge that Yahoo may change, deprecate or republish APIs and associated requirements for the Services or feature of the Services from time to time; You are responsible to ensure that calls to any Services are compatible with then-current APIs for the Services.
+
+(c) You agree to provide information and/or other materials related to Your Offering as reasonably requested by Yahoo to verify Your compliance with this TOU, and further agree that Yahoo may crawl or otherwise monitor Your Offering for the purpose of verifying Your compliance.
+
+(d) You must immediately notify Yahoo of any unauthorized use of, or access to, the Services or applicable administrator privileges, and fully cooperate with Yahoo to remedy these incidents.
+
+3. LICENSE
+
+During the Term, and subject to and conditioned on Your compliance with this TOU, Yahoo grants to You a limited, non-exclusive, non-assignable, non-transferable, non-sublicensable, royalty-free license (a) to access the Services solely in accordance with this TOU, and (b) to use and reproduce, without right of distribution, the software code and/or URLs that allow You to implement the Services (e.g., create Links) and receive Results, only for internal purposes that support Your implementation of the Services on Your Offerings.
+
+4. RESTRICTIONS
+
+(a) You may not sell, resell, redistribute, sublicense, syndicate, subsyndicate, or transfer (i) all or any portion of the Services, or (ii) Your Offering, to the extent that it is using the Services or incorporate any Results. For example, You may not use Your Offering on or within any other offering, application, platform, website or service of a third party where that third party requires You to sublicense or give any other rights to the Services or Yahoo properties to that third party or any other person. If You wish to sell, resell, redistribute, sublicense or transfer any Services or Results in connection with Your Offering, You must obtain Yahoo’s prior written approval.
+
+(b) Yahoo may suspend or throttle any of the Services until Yahoo believes the number of calls or queries will not exceed capacity limitations. Yahoo reserves the right to change in its sole discretion the limits and measurement period used for projected calls or queries, for example, where doing so will allow Yahoo to better manage network capacity. You will not take steps to circumvent any technical measures Yahoo may put in place to enforce throttling or suspension.
+
+(c) You will not and will not attempt to, nor will You permit or take actions designed to, enable other third parties to: (i) interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services; (ii) reverse engineer or otherwise discover the architecture and technology behind Yahoo’s web crawl, index, search, ranking systems, data structure, or any other aspect of the Results or Services; (iii) perform any analysis, reverse engineering or processing of the Results or any correlation with other data sources that could be used to determine or infer personally identifiable information of any Yahoo user; (iv) access or use the Services for the purpose of aggregating, analyzing, extracting, scraping, or repurposing any Yahoo branded properties; (vi) use the Services, including the display of Results in connection with any of the Prohibited Offerings set forth in Section 5.
+
+5. PROHIBITED OFFERINGS
+
+You will not operate, and will not permit or take actions designed to enable other third parties to operate, any service or provide any product or offering that:
+
+(a) constitutes, promotes, facilitates, or permits to promote any products, services, or materials that constitute, promote or are used primarily for the purpose of dealing in: spyware, adware, or other malicious programs or code, the bypassing of copyright protection, counterfeit goods or replica designer products, items subject to US embargo, hate materials (e.g. Nazi memorabilia) or materials urging acts of terrorism, human suffering, or violence, defamatory, libelous or threatening material, goods made from protected animal/plant species, recalled goods, hacking / surveillance / interception / descrambling equipment, cigarettes or cigarette tobacco, illegal drugs and paraphernalia, unlicensed sale of prescription drugs and medical devices, adult or child pornography, prostitution, body parts and bodily fluids, stolen products and items used for theft, fireworks, explosives, and hazardous materials, government IDs, police items, unlicensed trade or dealing in stocks and securities, gambling or gambling items, professional services regulated by state licensing regimes, non-transferable items such as airline tickets or event tickets, money transfers, person to person payments or extensions of credit, non-packaged food items, weapons and accessories, play-to-Click or pay-to-read services;
+
+(b) includes, promotes or facilitates illegal or unauthorized activities, including without limitation any activities that might be libelous or defamatory or otherwise malicious or harmful to any person or entity, or discriminatory based on race, sex, religion, nationality, disability, sexual orientation, or age;
+
+(c) engages in deceptive practices such as spamming, posing as another service for the purposes of phishing, pharming or other illegal or unsolicited marketing activities;
+
+(d) constitutes, includes, distributes, shares, or facilitates the distribution of unauthorized data, malware, viruses, Trojan horses, spyware, worms, or other malicious or harmful code;
+
+(e) involves operating nuclear facilities, life support, or other mission critical applications where human life or property may be at stake. You understand that the Services are not designed for these purposes and that their failure in these cases could lead to death, personal injury, or severe property or environmental damage for which Yahoo is not responsible;
+
+(f) violates, misappropriates, or infringes the rights (such as rights of privacy, publicity, or intellectual property rights) of any third party;
+
+(g) constitutes or facilitates the illegal export of any controlled or otherwise restricted items, including without limitation, software, algorithms, or other data that is subject to export laws.
+
+6. RESPONSIBILITY FOR YOUR OFFERINGS
+
+(a) You are solely responsible, and Yahoo specifically disclaims all liability, for Your Offerings, Your Content, or any use, display or implementation of Results made available to You via the Services. Specifically, You are, without limitation, solely responsible for:
+
+(1) the development, operation, and maintenance of Your Offerings;
+
+(2) the accuracy and appropriateness of any materials posted on or within Your Offerings;
+
+(3) the accuracy, collection, and, if applicable, delivery of API calls to Yahoo, including assuring that the API calls delivered do not violate this TOU;
+
+(4) ensuring that any materials (Your Content, Search Box) on Your Offerings are not illegal or displayed in a manner that does not comply with applicable law or Your own business or operational rules, access controls or policies (including any privacy policy), and do not promote illegal activities, including without limitation any activities that might be libelous or defamatory or otherwise malicious, illegal or harmful to any person or entity, or discriminatory based on race, sex, religion, nationality, disability, sexual orientation, or age;
+
+(5) complying with any obligations under applicable law to remove materials from Your Offering, and maintaining and performing processes under which requests to remove materials are promptly addressed and resolved including, without limitation, implementing an effective notice and takedown process in compliance with section 512 of the Digital Millennium Copyright Act, where applicable;
+
+(6) any of Your users’ or customers’ claims or other customer care issues relating to Your Offering, Your Content, or any other services utilized in connection with Your Offering;
+
+(7) maintaining licenses and adhering to the license or other terms of any software or services run by You.
+
+(8) complying with all legal process served on You or Yahoo by private litigants or government agencies seeking the disclosure of information relating to, displayed on, or stored for purposes of display on Your Offering, including user information, Results, or Your Content. You are also solely responsible for all costs associated with processing these requests. In responding to these requests, You must abide by all applicable local, state, national, and foreign laws, treaties, and regulations in connection with the disclosure of data related to the Services.
+
+(b) You will conspicuously post a privacy policy that complies with all applicable laws, rules, and regulations on each of Your Offerings. You will ensure that Your Offering accurately and adequately discloses, either through a privacy policy or otherwise, (1) how You collect, use, store, and disclose data collected from users, including, where applicable, that third parties (including advertisers) may serve content and collect information directly from users of Your Offering and may place or recognize cookies on users’ browsers, and (2) all other data usage as may be contemplated under this TOU.
+
+7. SERVICE DOWNTIME AND SUSPENSION
+
+(a) Services Downtime. Your access to and use of the Services may be suspended for the duration of any unanticipated or unscheduled downtime or unavailability of any portion or all of the Services for any reason (“Downtime”), including as a result of power outages, system failures or other interruptions, including strikes, riots, insurrection, natural disasters, explosions, war, labor conditions, governmental action, and Internet service disruptions.
+
+(b) Yahoo may suspend Your access to and use of some or all of the Services (“Services Suspension”) for any reason, at any time, and for any duration. Services Suspensions may include: (1) scheduled downtime to permit Yahoo to conduct maintenance or make modifications to any part of the Services; (2) a denial of service attack or other attack on the Services or other event that Yahoo determines, in its sole discretion, may create a risk to the applicable Services, to You or to any of Yahoo’s users if the Services were not suspended; (3) Yahoo’s determination that Yahoo’s provision of any of the Services to You is prohibited by applicable law, or has become impractical or unfeasible for any legal or regulatory reason; (4) Your seeking to hack or break any security mechanism on any of the Services or Yahoo otherwise determines that Your use of the Services poses a security or service risk to Yahoo, to any user of services offered by Yahoo, to any third party sellers on any of our websites, or to any of our or their respective customers or may subject Yahoo or any third party to liability, damages or danger; (5) Your using the Services in a way that disrupts or threatens the Services; (6) Yahoo determines, in Yahoo’s sole discretion, there is evidence of fraud with respect to Your account; (7) You use any of the Results other than as expressly permitted; (8) Yahoo receives notice or Yahoo otherwise determines, in its sole discretion, that You may be using the Services for any illegal purpose or in a way that violates the law or violates, infringes, or misappropriates the rights of any third party; (9) an actual or claimed violation of the TOU.
+
+(c) Yahoo will have no liability whatsoever for any damage, liabilities, losses (including any loss of data or profits) or any other consequences that You may incur as a result of any Downtime or Service Suspension. If Your right to access or use any portion or all of the Services is suspended, You remain responsible for all fees and charges You have incurred through the date of suspension, and You remain responsible for any applicable fees and charges for any Services to which you continue to have access. Yahoo’s rights under this Section 7 are in addition to its right to terminate this TOU under to Section 14.
+
+8. ATTRIBUTION
+
+(a) If requested by Yahoo, You will attribute Yahoo (or its licensors, if requested by Yahoo) in the manner specified from time-to-time by Yahoo and in accordance with any applicable trademark guidelines made available by Yahoo.
+
+(b) You must not issue a press release or other written public statement regarding this TOU without Yahoo’s written approval; Yahoo may publicly identify or otherwise list You as a user of Yahoo BOSS Services.
+
+(c) You understand and acknowledge that Yahoo is not certifying nor endorsing, and has no obligation to certify or endorse, any aspect of Your Offering or Your Content.
+
+9. FEES AND PAYMENT
+
+The Pricing and Payment Terms identified under the respective Terms for Specific Services apply to Your use of the Services and are incorporated by reference into these TOU. Yahoo reserves the right, in its sole discretion, to charge additional fees for use of or access to some or all of the Services made available by Yahoo. If Yahoo decides to charge additional fees for Services, those fees and additional terms and conditions will be disclosed to You prior to the effective date when these fees or requirements would be imposed. Yahoo does not prohibit Your use of third party products or services in connection with the Services, so long as You are in compliance with this TOU and any additional terms and conditions, which may be associated with a particular aspect of the Services.
+
+10. OWNERSHIP; RESERVATION OF RIGHTS
+
+As between Yahoo and You, all right, title and interest in the Services and any information provided via or in connection therewith, including without limitation all documentation, Guidelines, Results, enabling code, URL lists or other data or information used to restrict or otherwise classify Results, usage data, derivative works created by Yahoo or its licensors or affiliates, related parties (or their respective agents), are exclusively owned by Yahoo, its advertisers or their licensors. Except to the extent expressly granted in Section 3, nothing in this TOU may be construed as granting any intellectual property rights, licenses, forbearances, or any other interest or obligation of any kind from Yahoo, whether by express grant, implication, exhaustion, estoppel, or otherwise.
+
+11. INDEMNITY
+
+You agree to indemnify, defend, and hold harmless Yahoo, Yahoo’s affiliates, subsidiaries and licensors, and each of their respective employees, officers, directors, agents and representatives, from and against any and all claims, losses, damages, liabilities, judgments, penalties, fines, costs and expenses (including reasonable attorneys fees), arising from or in connection with (i) Your use of the Services in violation of this TOU, (ii) Your use, display, or modification of the Results; (iii) Your Offering, Your Content, or the combination of either with other applications, content or processes, including but not limited to any claim involving infringement or misappropriation of third-party rights, or the use, development, design, manufacture, production, advertising, promotion, or marketing of Your Offering or Your Content, (iv) Your breach of any warranty, term or condition of this TOU, or (v) You or Your employees' or personnel's negligence or willful misconduct.
+
+12. DISCLAIMER
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+
+(a) YOUR USE OF THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS; YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS FROM THE USE OF THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA.
+
+(b) YAHOO! AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WITHOUT LIMITING THE SCOPE OR APPLICABILITY OF THE PRECEDING SENTENCE, YAHOO! AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS FULLY DISCLAIM, AND MAKE NO WARRANTY THAT (i) THE SERVICES OR INFORMATION OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR REQUIREMENTS; (ii) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE; (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES (INCLUDING ANY RELATED MATERIALS) WILL BE ACCURATE OR RELIABLE; (iv) THE QUALITY OF ANY INFORMATION OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS; (v) ANY ERRORS, USE, OR FAILURES ASSOCIATED WITH THE SERVICES (INCLUDING WITHOUT LIMITATION, ANY QUERIES), OR ANY ASSOCIATED SOFTWARE WILL BE CORRECTED; OR (vi) WEB SITES, CONTENT OR SOURCES THAT CAN BE LINKED TO OR FROM THE RESULTS WILL BE ACCURATE, APPROPRIATE OR OTHERWISE FREE FROM DAMAGING MATERIAL. NO ADVICE OR INFORMATION OBTAINED BY YOU FROM YAHOO! AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS OR FROM ANY THIRD PARTY OR THROUGH THE SERVICES CREATES ANY WARRANTY NOT EXPRESSLY STATED IN THIS TOU. NOTHING IN THIS TOU WILL BE CONSTRUED TO LIMIT OR AFFECT YAHOO’S ONGOING BUSINESSES, INCLUDING THE COLLECTION AND USE OF ANY INFORMATION OR DATA IN CONNECTION WITH ITS BUSINESS, REGARDLESS OF WHEN OR IN WHAT MANNER THE INFORMATION OR DATA IS COLLECTED.
+
+13. LIMITATION OF LIABILITY
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YAHOO! AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS ARE NOT LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF YAHOO! HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SERVICES; (ii) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES, OR (iii) ANY OTHER MATTER RELATING TO THE SERVICES (INCLUDING ANY MATERIALS MADE AVAILABLE BY YAHOO! RELATED TO THE SERVICES) OR THIS TOU. IN ANY CASE, YAHOO!’S (INCLUDING COLLECTIVELY, ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS) AGGREGATE LIABILITY UNDER THIS TOU IS LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU, IF ANY, UNDER THIS TOU DURING THE TWELVE (12) MONTHS PRIOR TO THE DATE OF THE FIRST INCIDENT GIVING RISE TO ANY LIABILITY UNDER THE TOU. THE ABOVE LIMITATION ALSO APPLIES EVEN IF THIS REMEDY DOES NOT FULLY COMPENSATE YOU FOR ANY LOSSES OR FAILS OF ITS ESSENTIAL PURPOSE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+
+14. TERM AND TERMINATION
+
+(a) The term of this TOU ("Term") will commence, once You agree to the terms and conditions of this TOU by applying for an Application ID or initiating a download of or access to any materials related to the Services. The TOU will remain in effect until terminated by You or Yahoo in accordance with this Section.
+
+(b) You may terminate this TOU for any reason or no reason at all, at Your convenience, by (a) discontinuing use of the Services for more than 60 days, or (ii) closing Your account to the extent which Yahoo provides an account closing mechanism. For the avoidance of doubt, at any time during which You use the Services, including if You use the Services after the aforementioned 60-day period, You will be subject to this TOU.
+
+(c) Yahoo may terminate this TOU and provision of the Services to You at any time, for any reason, or for no reason. This TOU terminates automatically if (i) You violate any term of this TOU, (ii) Yahoo publicly posts a written notice of termination on Yahoo's Web site, (iii) Yahoo sends a written notice of termination to You, or (iv) Yahoo ceases providing You with access to the Services.
+
+(d) At termination of this TOU for any reason, (i) all of Your rights under this TOU immediately terminate; (ii) You must immediately and completely delete or otherwise remove from Your Offering or any related system all Results which may have been stored by You, and (iii) You must immediately cease using and delete or destroy any materials or software provided by Yahoo related to the Services. The following sections of this TOU survive any termination: 1, 8(b), 10-13, 14(d), 15, 16, and any term definition applicable to these sections.
+
+15. GENERAL TERMS
+
+(a) Authorization and Account Information. You represent and warrant that:
+
+(1) the information You provide in connection with Your registration for the Services is accurate and complete;
+
+(2) if You are registering for the Services as an individual, that You are at least 18 years of age and have the legal capacity to enter into this TOU;
+
+(3) if You are registering for the Services as an entity or organization,
+
+(i) You are duly authorized to do business in the country or countries where You operate,
+
+(ii) the individual applying for an Application ID or receiving Services-related materials (e.g., software) Services is at least 18 years of age, has the legal capacity to enter into this TOU, and is an authorized representative of Your entity, and
+
+(iii) Your employees, officers, representatives and other agents accessing the Services are duly authorized to access the Services and to legally bind You to this TOU and all transactions conducted under Your account.
+
+(b) Entire Agreement. These terms constitute the entire agreement between You and Yahoo concerning Your use of the Services (including any materials made available by Yahoo in connection with the Services), superseding any prior agreements between You and Yahoo with respect to the Services, and is the sole source of Your rights concerning use of the Services.
+
+(c) Waiver and Severability. The failure of Yahoo to exercise or enforce any right or provision of this TOU does not constitute a waiver of that right or provision. If any provision of this TOU is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of this TOU remain in full force and effect.
+
+(d) Export. You will comply with any applicable license, import or export classification requirements or other approvals from the U. S. Department of Commerce or any other agency or department of the United States Government (including the Export Administration Regulations, the International Traffic in Arms Regulations, and country-specific economic sanctions programs implemented by the Office of Foreign Assets Control), or the government of any other country for the export or import, either directly or indirectly, of any materials associated with or derived from the Services or Your Offering.
+
+(e) Choice of Law And Location Of Lawsuit. This TOU is governed by, and will be construed according to the laws of the State of California, United States of America without regard to conflict of laws rules that would otherwise apply laws of any other state or jurisdiction. Each party consents to exclusive venue and non-exclusive personal jurisdiction in the federal and state courts for Santa Clara County, California, USA.
+
+(f) Assignment. You may not assign any of Your rights or delegate any of Your obligations under this TOU without prior consent from Yahoo. Any attempt to assign or delegate any rights or obligations without Yahoo's prior written consent is null and void. This TOU may be assigned by Yahoo without Your prior consent.
+
+(g) Relationship of the Parties. For all purposes of this TOU, You and Yahoo will be independent and act independently, and not as a partner, joint venturer, agent, employee or employer of the other. You have no authority to assume or create any obligation for or on behalf of Yahoo, express or implied, and You must not attempt to bind Yahoo to any contract.
+
+(h) Nothing in this TOU may be construed to limit Yahoo’s ability to independently manage the Services and information that are part of the Services provided to You or to access, preserve, disclose or remove information, regardless of source, from the Services if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to comply with legal process, respond to claims that any information violates the rights of third parties; or protect the property or personal safety of Yahoo or its affiliates, related parties (or their agents).
+
+16. CERTAIN DEFINITIONS
+
+(a) “Services” means each of the services made available by Yahoo under these TOU, including associated APIs, software code, URLs, or any other Services-related material supplied by Yahoo, but excluding Your Content.
+
+(b) “Your Offering(s)” means a web site or application owned and operated by You incorporates or makes use of the Services.
+
+(c) “Your Content” means any content (text, graphical, software, or otherwise) or other service (such as data services) supplied by You or others, displayed in or through, used by or in conjunction with, accessed via, or related to Your Offering, excluding Results.
+
+(d) “Results” means data or content provided by the Services to You in response to Your query, as may be further defined or described in the Guidelines or TSS.
+
+B. Terms for Specific Services
+
+The following Terms for Specific Services (“TSS”) apply only to the specific Services to which they relate. In the event of a conflict between the terms of these TSS and the TOU, the terms and conditions of these TSS apply, but only to the extent of the conflict. Capitalized terms used but not defined in the TSS have the meanings stated in the TOU.
+
+1. BOSS Search Services.
+
+Yahoo BOSS Search Services offers a suite of Oath Holdings Inc.’s search technology services delivering algorithmically-derived Internet search Results (“Web Search Results”) and other search-related Results described in the Services offering, when made available by Yahoo, in response to Queries provided by a user.
+
+a. You are permitted to use the Services only for the purpose of incorporating and displaying Results from the Services as part of a Search Product deployed on Your Offering. A “Search Product” means a service which provides a response to a request in the form of a search query, keyword, term or phrase (each request, a “Query”) served from an index or indexes of data related to Web pages generated, in whole or in part, by the application of an algorithmic search engine.
+
+b. You will include in the user interface of Your Offering at least one of the following implementations of the Service (each, a “Link”): (a) a field or graphical area that accepts typed-in text (i.e., a “Search Box”) enabling a user to enter a Query (b) words that are displayed in the form of hyperlinks, that generate a Query comprising when clicked on or used by a user (a “Hyperlink”); or (c) a method that sufficiently elicits a user’s specific intent to initiate or refine a certain Query. You will use the Links to initiate a Query to the Services, in response to which Results are served from Yahoo. You will not request Results by any means except those Links, and will not place Links or Results on any location except for the Your Offering. All Queries must originate from Your Offering.
+
+c. You acknowledge that any changes to the presentation or adjustments, reordering, or reranking of Results may affect relevance or performance, and is part of the sole and exclusive responsibility You undertake for Your Offering.
+
+d. As required by the Guidelines, You must strictly comply with data field use, data schemas, and the requirements to include and properly deploy, but not modify, the ClickURLs, or disassociate a ClickURL in any way from the remainder of its corresponding Result.
+
+e. You must not cache any Results.
+
+f. Your responsibilities under Section 6 of the TOU include responsibility for (a) any combination of Results or Links with Your Content, (b) the accuracy, collection, and delivery of Queries to Yahoo, including ensuring that the Queries delivered do not violate the TOU.
+
+g. Advertising Services. If You qualify to use Yahoo Search advertising in connection with Your Offering, You will be required to agree to additional terms and conditions. Yahoo Search advertising is available via the Service sign-up process, and You are encouraged to do so.
+
+h. The Pricing and Payment Terms applicable to these Services are currently set forth here and here.
+
+2. BOSS Geo Services.
+
+Yahoo BOSS Geo Services offer a suite of geoinformatic Services delivering Results comprised of enriched geographical or geospatial data.
+
+a. You are permitted to use the Services only for the purpose of incorporating Results into Your Offering in compliance with the TOU.
+
+b. You must not:
+
+i. offer or otherwise use the Services in a manner that is competitive with the Service;
+
+ii. use the Services in a manner that gives You or any other person access to mass downloads or bulk feeds of any Results, including but not limited to numerical latitude or longitude coordinates, imagery, and visible map data;
+
+iii. use Results in connection with commercial, paper map production. For clarity, this restriction does not prevent end users or customers from printing paper copies or print-outs of, for example, maps, directions, or other routing information derived from Your Offering;
+
+iv. use the Services or Results with any products, systems, or applications for or in connection with (i) real time navigation or real time route guidance, vehicle tracking, dispatch, positioning, fleet management or similar applications, including but not limited to turn-by-turn route guidance that is synchronized to the position of a user’s sensor-enabled device, or systems which include resident geographic data and/or which enable a continuous or intermittent (i.e., more frequently than once per minute) position determination; or (ii) any systems or functions for automatic or autonomous control of vehicle behavior, or otherwise influence or control vehicle behavior;
+
+v. allow end users to store Results (e.g., map imagery, map data or geocoded location information) from the Services for any future use; or
+
+vi. store any Results (e.g., map imagery, map data or geocoded location information) from the Service, except (a) for temporary caching of Results to improve the performance of Your Offering, but only for so long as reasonably necessary; or (b) to support a core business function of Your Offering. You may not use these exceptions if You are storing or caching the Results for the purpose or effect of avoiding, reducing, or distorting the number of queries made, or Query Fees owed to Yahoo.
+
+c. The Pricing and Payment Terms applicable to these Services are currently set forth here and here.
+
+Date: 2018-01-02

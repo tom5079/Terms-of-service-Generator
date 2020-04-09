@@ -1,0 +1,23 @@
+Amendment To The Iab/4A’S Standard Terms And Conditions For Internet Advertising For Media Buys One Year Or Less, Version 3.0
+ 
+This Third-Party Billing Amendment (“Amendment”) is entered into by and between Agency and Oath Holdings Inc. (“Yahoo” or “Media Company”) and amends the IAB/4A’s Standard Terms and Conditions for Internet Advertising for Media Buys One Year or Less, Version 3.0 (the “4A’s”). Unless otherwise expressly defined herein, all terms used herein shall have the meanings given to them in the 4A’s.
+
+Now, therefore, for good and valuable consideration the receipt of which is hereby acknowledged, Yahoo and Agency, on behalf of itself and its clients, agree to amend the 4A’s as follows:
+
+1.  Section XIII(b)(ii) of the 4A’s is deleted in its entirety and replaced with the following:
+
+“If Agency uses a particular Third Party Ad Server identified at https://adspecs.yahoo.com/thirdparty/, for the uses set forth at the same URL, the Controlling Measurement will be the Third Party Ad Server for those display ad units served by the Third Party Ad Server. Third Party Ad Server will provide an automated, daily reporting interface which allows for automated delivery of relevant and non-proprietary statistics to Media Company in an electronic form that is approved by Media Company; provided, however, that Media Company must receive access to such interface in the timeframe set forth in Section XIII(c), below.
+
+2.  Section XIII(c) of the 4A’s is deleted in its entirety and replaced with the following:
+
+“Agency must either: (i) provide Media Company with the user ID, passwords, and full access to the Third Party Ad Server’s delivery reporting for this campaign, or (ii) provide Media Company with manual reporting for this campaign from the Third Party Ad Server. Agency commits to provide access to or reporting from the Third Party Ad Server to Media Company, as set forth above, by the 10th of the month following the end of each month of delivery. If Agency fails to do so, Media Company will bill Agency and Agency agrees to pay based solely on Media Company’s measurements. While Third Party Ad Server measurements are allowed for billing purposes, no fourth party measurements will be accepted.”
+
+3.  As may be specified in an IO, Yahoo may deliver ads on Media Company Properties and/or Network Properties on a space available, preemptible basis (“Preemptible Ads”). With respect to Preemptible Ads, Agency will pay only for the impressions actually served, and Yahoo has no duty or obligation, express or implied, to publish, post, host, stream, or otherwise deliver any such impressions. Yahoo makes no guarantees with respect to clicks, acquisitions, or levels of impressions for any Preemptible Ads and any click, acquisition, or impression make-good provisions contained in the 4A’s will not apply to Preemptible Ads. For dynamically priced campaigns, Yahoo has the right to adjust the location of, and price for, Ads in an effort to meet Agency’s or Advertiser’s stated target goals (e.g., CPC, CPA, or CPL).
+
+4.  Notwithstanding anything to the contrary contained in the IO or in the 4A’s, Preemptible Ads may only be canceled by providing Yahoo with at least two (2) business days’ advance written notice.
+
+5.  As may be specified in an IO, Yahoo may deliver dynamically-priced advertisements (“dCPM Ads”), native advertising, including stream and image ads (“Native Ads”), and advertising sold on a viewable or vCPM basis (“vCPM Ads”). With respect to dCPM Ads, Native Ads, and vCPM Ads, Agency will pay for delivery based solely on Yahoo’s measurements. In the event of under-delivery, Agency will only be billed for impressions actually delivered by Yahoo.
+
+As expressly amended herein, the 4A’s will govern any display advertising IO entered into by the parties that references the 4A’s.
+
+This Amendment was last updated 2018-01-02

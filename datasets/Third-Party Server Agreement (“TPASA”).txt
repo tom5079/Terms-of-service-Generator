@@ -1,0 +1,259 @@
+Third-Party Server Agreement (“TPASA”)
+ 
+Whereas, Yahoo requires that Yahoo Advertisers have the ability to have their Advertisements served on the Network by certain qualified third-party ad servers; and
+
+Whereas, you desire to serve Advertisements on the Network on behalf of Yahoo Advertisers, in accordance with the terms of this TPASA;
+
+Now, therefore, in consideration of the foregoing and the mutual promises contained herein, you and Yahoo agree as follows:
+
+Definitions
+
+All definitions apply both to their singular and plural forms, as the context may require.
+
+1.1 “Additional Territories” means the countries referenced in or via Exhibit F, as may be amended by Yahoo from time to time.
+
+1.2 “Advertisement” means an advertising unit, the content of which conforms to the Advertising Guidelines and the terms of this TPASA, that Yahoo has accepted to display on the Network through an Insertion Order.
+
+1.3 “Advertisement Measurement” means an Impression, Click-through, or any other measurement related to an Advertisement, in each case as recorded by Yahoo.
+
+1.4 “Advertising Guidelines” means Yahoo’s advertising guidelines and policies, including (i) local advertising guidelines provided by local Yahoo Affiliates to you or your local Affiliate from time to time; and (ii) specifications for the file size, dimension, content, animation and other characteristics of advertisements to be delivered to the Network, and the lead-time prior to display and the manner of transmission of Advertisements, including those posted at http://adspecs.yahoo.com (or any successor site).
+
+1.5 “Advertising Statistics” means the number of Impressions and/or Click-throughs on Advertisements (by placement and in the aggregate) served by you to the Network, in each case as recorded by you, except where specified in an Individual Territory Addendum or as otherwise updated or replaced by notice to you.
+
+1.6 “Affiliate” means, with respect to an entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with, such entity.
+
+1.7 “Click-through” means the initiation of a User presence on a web page that originated from a User’s interaction with an Advertisement.
+
+1.8 “CNAME” means the canonical name record in a DNS database which is part of the zone file and is used to point Internet traffic to a host name (for example, a CNAME record such as ‘abc.yourdomain.com’ can be used to designate traffic to a site at ‘hostname.yourdomain2.com’).
+
+1.9 “Impression” means each call to a server for an Advertisement to be delivered to a Network page.
+
+1.10 “Individual Territory Addendum” means each addendum referenced in or via Exhibit F and set forth in the Advertising Guidelines relating to an Additional Territory that modifies this TPASA as it relates to the particular Additional Territory.
+
+1.11 “Insertion Order” means a fully executed Yahoo advertising insertion order or similar agreement including terms and conditions for Advertisements to be served by you associated with an advertising purchase on the Network in the United States or the relevant Additional Territory.
+
+1.12 “Network” means those Yahoo properties set forth in Exhibit C and third-party properties for which Yahoo sells advertising.
+
+1.13 “Personally Identifiable Information” means any and all information that could, individually or when combined with other information, identify an individual (including an individual’s name, address, phone number, e-mail address, social security or other national identification number, account number, or security key).
+
+1.14 “Profiles” means compilations of any of (a) anonymous information (as opposed to Personally Identifiable Information) that is self-reported demographic data (e.g., age, gender, income, and interest information), (b) anonymous information (as opposed to Personally Identifiable Information) produced from a process that predicts user characteristics, (c) information generated from instances where a User’s browser requests an Advertisement (i.e., an Internet Protocol address, the time and date of the transaction, the referral Uniform Resource Locator, and the information contained in the applicable browser’s cookie), including but not limited to information relating to the Network and (d) any other information regarding Users that is not Personally Identifiable Information but is gathered by you from their interaction with an Advertisement.
+
+1.15 “User” means any user of the Network.
+
+1.16 “Yahoo” means Oath Holdings Inc. and/or Yahoo Sarl as appropriate.
+
+1.17 “Yahoo Advertiser” means an advertiser that has signed an Insertion Order, or has had an Insertion Order signed on its behalf, or has some other contractual relationship with Yahoo under which its Advertisements can appear on the Network.
+
+1.18 “Yahoo’s Privacy Policy” means that privacy policy located at http://privacy.yahoo.com (or any successor site), as may be amended by Yahoo from time to time.
+
+1.19 "You” or “your” mean the entity accepting the TPASA electronically pursuant to Section 17, below.
+
+Contracting Parties
+
+You and Yahoo acknowledge and agree that in this TPASA:
+
+a) Oath Holdings Inc. is contracting on behalf of the appropriate Yahoo entities in the U.S., Mexico, Brazil, Argentina, Colombia and Canada, and all rights and obligations hereunder will be interpreted accordingly; and
+
+b) Yahoo Sarl is contracting on behalf of the appropriate Yahoo entities or joint venture vehicles (as the case may be) in the United Kingdom, France, Italy, Spain, Germany, Denmark, Norway, Sweden, The Netherlands and Belgium, Hong Kong, Korea, Taiwan, India, Singapore, Indonesia, Australia, New Zealand, Malaysia, Philippines, Thailand and Vietnam, and all rights and obligations hereunder will be interpreted accordingly.
+
+Qualification to Serve Advertisements
+
+You will complete fully and accurately and provide to Yahoo the current form of Yahoo’s Third-Party Ad Serving Questionnaire before accepting this TPASA, and will promptly notify Yahoo of any material changes to any of the information contained therein. You will promptly provide such information as Yahoo requests in connection with this TPASA from time to time. You may not serve Advertisements to the Network unless and until Yahoo has notified you in writing that you are qualified and permitted to do so. In addition, in order to serve Advertisements purchased by, or on behalf of, a Yahoo Advertiser to the Network, you must be party to a valid and binding agreement (“Serving Agreement”) with each such Yahoo Advertiser, or a party authorized to act on behalf of such Yahoo Advertiser, which agreement sets forth the terms under which you may serve the Yahoo Advertiser’s Advertisements, and you agree that Yahoo will have no liability in connection with such agreements. You will promptly notify Yahoo of any entity that materially breaches its Serving Agreement in such a way that adversely impacts your performance under this TPASA, or whose Serving Agreement expires or is terminated. Yahoo is not responsible for any fees or other elements that are associated with the third-party serving of Advertisements.
+
+Monitoring; Testing
+
+4.1 You agree that Yahoo may, upon 24 hours’ notice to you, except where specified in an Individual Territory Addendum or as otherwise updated or replaced by notice to You, perform one or more server stress tests, including to determine your response time and/or your technical ability to serve Advertisements to the Network. You will provide all materials reasonably requested by Yahoo to enable Yahoo to determine your ability to comply with your obligations under this TPASA.
+
+4.2 Yahoo reserves the right to monitor your delivery and performance, including using third party service providers. Yahoo may, from time to time, institute such testing and qualification requirements as it deems appropriate, and you agree to comply with such requirements. If Yahoo determines that you have failed to perform or meet the requirements set forth herein, you must promptly cure such failure and Yahoo may directly notify Yahoo Advertisers (and/or entities authorized to act on their behalf) of the failure.
+
+4.3 Yahoo may disclose information gathered through monitoring your delivery and performance, including results of tests conducted pursuant to this Section, to Yahoo Advertisers (and/or entities authorized to act on their behalf) and, upon your written request, to you. Any such results are Yahoo’s Confidential Information.
+
+Advertisement Specifications and Policies
+
+5.1 Yahoo reserves the right to decline any Advertisement, Insertion Order, graphic, text, description, URL and/or other content, at any time in its sole discretion.
+
+5.2 You must submit to Yahoo, or cause each Yahoo Advertiser to submit to Yahoo, any Advertisements you propose to serve to the Network at least four (4) business days prior to the date on which you propose to serve such Advertisements. Such Advertisements are subject to Yahoo’s approval, except where prior approval is specified as not being required in an Individual Territory Addendum.
+
+5.3 Revisions to Advertisements (“Revisions”) must be submitted by you to Yahoo at least four (4) business days prior to the date on which you propose such Revisions to take effect. Revisions will not take effect, and may not be implemented on the Network, unless and until approved by Yahoo, except in the case of any Additional Territories in which prior approval is not required.
+
+5.4 All CNAMES and any other aliases which are or may be used by you for third-party serving of Advertisements are listed in Exhibit A. You will notify Yahoo at least thirty (30) days in advance of any expected or actual change to the list in Exhibit A.
+
+Term and Termination
+
+6.1 This TPASA will take effect on the Effective Date and will remain in force for one (1) year, unless earlier terminated as provided herein. Thereafter, this TPASA will automatically renew for additional one (1) month periods until terminated as provided for in this TPASA (collectively, the “Term”).
+
+6.2 This TPASA may be terminated by you for any or no reason upon thirty (30) days’ advance written notice to Yahoo This TPASA may be terminated by Yahoo for any or no reason upon written notice to you.
+
+6.3 Sections 1, 4.3, 6, 7.2, 8.1, 8.3, 8.5, 8.8 (as set forth in last sentence), 9, and 11 through 16 survive the termination of this TPASA.
+
+6.4 You may not serve any Advertisements or any other content onto the Network after the Term.
+
+Advertisement Measurements and Advertising Statistics
+
+7.1 In the event of a discrepancy between Advertisement Measurements and Advertising Statistics, you agree to work with Yahoo in good faith at Yahoo’s request to resolve such discrepancy. Yahoo may investigate any discrepancies of greater than 10% between the Advertisement Measurements and the Advertising Statistics, including auditing your measurement and reporting processes and measurements recorded hereunder. Yahoo will bear the cost of any such audit except that you will bear such cost in the event an audit confirms that the Advertising Statistics are inaccurate by more than 10%.
+
+7.2 You will not hold Yahoo responsible for any discrepancy between the Advertisement Measurements and any data permitted to be collected hereunder by you.
+
+7.3 Your measurement process and reporting process must comply with the Measurement Guidelines promulgated by the Interactive Advertising Bureau (IAB) (or such other standards as Yahoo may designate). Upon request by Yahoo, you will cause your measurement process and reporting process to be audited by the IAB (or such other auditor as Yahoo may designate), and the results will be made available to Yahoo upon written request.
+
+7.4 If Yahoo deems it necessary to count Click-throughs, you agree to embed Yahoo tracking code into your HTML/JavaScript/Java or take other steps as necessary to enable Yahoo to do so and to agree to in writing and comply with any additional Yahoo terms relating to such tracking code.
+
+Compliance
+
+8.1 Upon Yahoo’s request, you will immediately cease to serve any Advertisements to the Network. In addition, Yahoo may, without notice to you, suspend any Advertisement being served, decline any further Advertisement serving by you, and/or block you from serving further Advertisements.
+
+8.2 You will only serve Advertisements to the Network. You may not serve any unauthorized advertising or other content to the Network. You will ensure that all Advertisements served by you to the Network comply with this TPASA and the terms and conditions of the Insertion Order pursuant to which inventory was purchased, including as more specifically set out in the relevant Individual Territory Addendum or as otherwise updated or replaced by notice to you.
+
+8.3 You are prohibited from undertaking any activity that would result in or otherwise enable Fourth-Party Ad Serving/Data Collection activities. “Fourth-Party Ad Serving/Data Collection” means any activity that would result in a party other than Yahoo, you or third party technology expressly approved by Yahoo in writing receiving calls for Advertisements, serving Advertisements, or otherwise being directly involved in the mechanics of serving an Advertisement to the Network or entering or enabling another party (including a Yahoo Advertiser) to embed code into your ad tags.
+
+8.4 You will notify Yahoo immediately, but in no event later than four (4) hours, upon your learning that an Advertisement you are serving or have served is or has been served in breach of the terms and conditions of this TPASA or the Insertion Order pursuant to which such Advertisement was purchased.
+
+8.5 You agree to ensure that, in addition to any other restrictions set forth herein, in all cases your collection and use of data (including User data) obtained through your activities in connection with this TPASA is solely for the benefit of the Yahoo Advertiser whose Advertisement is being served, and in all respects, (1) will be only related to your cookie, (2) will not be associated to a User’s Personally Identifiable Information, (3) will not be used (i) to create or supplement Profiles based on Users or inventory available through the Network, or (ii) for retargeting ads, (4) will be consistent with, and not cause Yahoo to violate, Yahoo’s Privacy Policy, and (5) will not use locally shared object technologies (including but not limited to flash cookies, browser helper objects, HTML5 localStorage, or any other similar technology not exposed via typical browser user controls). You will conspicuously post a privacy policy that complies with applicable laws, and respect users’ choice to “opt out” of interest-based targeting by you, and you will notify Yahoo within five business days of changing the URL link to your privacy policy. You will not use, collect, read, transfer and/or store referrer data, Yahoo cookies, Yahoo page content, or Yahoo form content through any means, including, but not limited to, via JavaScript or any other software. In addition, you are prohibited from collecting, using, maintaining, storing, or sharing any behavioral or other targeting criteria that is derived as a part of the advertising buy (e.g., if a Yahoo Advertiser buys a campaign targeting males with high creditworthiness that are in-market to buy a car, that information cannot be combined with any other information or used by you or the Yahoo Advertiser for any other purpose). JavaScript or any other software may only be used by you to deliver Advertisements and may not be used for any other purpose, including (a) collecting Personally Identifiable Information, (b) manipulating or otherwise interfering with page content, (c) moving page content, (d) hijacking or otherwise manipulating destination URLs, or (e) manipulating or moving Advertisement content other than as permitted as set forth at http://adspecs.yahoo.com/index.php or any other website relevant to the Additional Territory or updated or replaced by notice to you. You have taken and will continue to take reasonable precautions to prevent the entry of malicious code (JavaScript or otherwise), including code from another party (including a Yahoo Advertiser), into your ad serving system. You will not collect any data through your activities in connection with this TPASA other than the Advertising Statistics and Permitted Information (defined below), and you may use, read, disclose, and/or store such data only as explicitly permitted herein and only for the benefit of the Yahoo Advertiser. You will at no time deliver advertisements that prompt any User to install any type of software, browser helper object, ActiveX controls, or any similar software. You will not use any security exploits or oversights in a User’s browser to install any type of software, browser helper object, or any similar mechanism. You will not utilize any technology that creates any kind of persistent identification object/element that, when used, will bypass a User’s browser preferences and settings or restore deleted cookies and other cached objects. Notwithstanding anything to the contrary contained in this Section 8.5, you will not share, or provide direct or indirect access to any data you are permitted to collect under this TPASA with any entity (including the Yahoo Advertiser) and will only use such data to serve Advertisements and report Advertising Statistics to the Yahoo Advertiser on whose behalf you are serving the Advertisement.
+
+8.6 You may only serve Advertisements using the tags set forth in Exhibit B.
+
+8.7 You will not knowingly provide to Yahoo any Advertisements or other data that contain or execute any viruses, Trojan horses, worms, or other codes that could delay, disrupt or damage any software, computers or websites (including but not limited to the Network), or enable unauthorized third parties to access Yahoo’s systems. You agree to comply with the security provisions set forth at https://policies.yahoo.com/us/en/yahoo/terms/advertising/infosecagreement/index.htm.
+
+8.8 In addition to the audit required under Section 7.3, above, you must have a nationally recognized independent auditor reasonably acceptable to Yahoo perform an annual audit of your compliance with this Section 8. You will deliver to Yahoo upon Yahoo’s request, but in any event at least thirty (30) days prior to the first anniversary of the Effective Date, the most recent opinion of such auditor regarding this Section 8.8. Additionally, Yahoo (or its designated third-party auditor) may perform its own audit(s) relating to your compliance with this Section 8; Yahoo will bear the cost of such audit unless the audit determines that you are not in compliance with this Section 8, in which case, you will promptly reimburse Yahoo for such audit cost upon invoice from Yahoo. During the Term and for at least one (1) year following termination of this TPASA, You will maintain complete and accurate records of all uses of data by You in connection with your activities under this TPASA.
+
+8.9 Upon Yahoo’s written request, you will annually have a nationally recognized independent auditor reasonably acceptable to Yahoo complete a SAS 70 Type II or Yahoo-approved audit. You will deliver to Yahoo the written results of such audit, including the opinions of such auditor, no later than the Effective Date of this TPASA, and yearly thereafter.
+
+Indemnification
+
+You will indemnify, defend, and hold harmless Yahoo, its Affiliates, and their officers, directors, consultants, contractors, agents, attorneys, employees, third-party service providers, and third parties distributing Advertisements (collectively, “Yahoo Entities” or “Yahoo Entity”) from all claims, whether actual or alleged (collectively, “Claims” or “Claim”), that arise out of or in connection with: (i) acts and/or omissions by you or entities acting on your behalf; (ii) breach of this TPASA by you or entities acting on your behalf; and/or (iii) any difference between the Advertisements served to the Network by you and the original form of such Advertisements provided to you by the applicable Yahoo Advertiser or its agent. You are solely responsible for defending any Claim against a Yahoo Entity, subject to such Yahoo Entity’s right to participate with counsel of its own choosing, and for payment of all judgments, settlements, damages, losses, liabilities, costs, and expenses, including reasonable attorneys’ fees, resulting from all Claims against a Yahoo Entity, provided that you will not agree to any settlement that imposes any obligation or liability on a Yahoo Entity without its prior express written consent.
+
+Representations and Warranties
+
+You represent, warrant, and covenant that:
+
+your activities in connection with this TPASA, as well as all activities and technology otherwise involved in serving Advertisements from your servers to the Network (whether performed solely by you or in combination with Yahoo and others): (A) will comply with the terms of this TPASA (including the Exhibits), the Advertising Guidelines (as such may be modified by Yahoo from time to time), and all applicable laws, statutes, directives, ordinances, treaties, contracts, regulations, and Yahoo and Yahoo Affiliate policies and guidelines (collectively, “Laws”); and (B) will not infringe in any manner upon the copyright, patent, trademark, trade secret, or any other intellectual property or other rights of any third party;
+
+you will not collect any data in connection with the TPASA and/or serving Advertisements to the Network other than the Advertising Statistics and if applicable, Permitted Information. If you cannot without undue burden modify your system so as to prohibit the collection of information other than the Advertising Statistics, you will notify Yahoo thereof and provide to Yahoo in writing a detailed list of all such additional information that you cannot exclude from collection without undue burden. If Yahoo consents in writing to the collection of any such additional information, you may collect such information provided that you comply with all the terms of this TPASA (“Permitted Information”). If Yahoo rejects or does not consent in writing to the collection of such information, you will not collect such information. All Permitted Information: (A) may not be stored, read, accessed, resold, shared, transferred, made available, or used by you, nor disclosed to any entity other than Yahoo, (B) may not be correlated to or aggregated with any other data, and (C) is subject to all data restrictions set forth in this TPASA;
+
+you count impressions based on “client-side counting,” meaning an impression is only logged when a call is made from the User’s browser, except where specified in an Individual Territory Addendum or as otherwise updated or replaced by notice to you;
+
+you will not: (A) link or correlate in any way any information or data collected through your serving of Advertisements to the Network to any Personally Identifiable Information, (B) maintain, group or categorize any information or data collected through your serving of Advertisements to the Network in such a way that identifies the same as being from a User or otherwise associated with Yahoo; provided that the foregoing will not be deemed to restrict you from providing information to Yahoo Advertisers in accordance with Section 10.(vi), or (C) create, supplement or maintain Profiles of Users or inventory made available through the Network, nor target Advertisements based on such Profile(s);
+
+you have reviewed Yahoo’s Privacy Policy and will ensure that notwithstanding anything to the contrary in this TPASA, your collection and use of data obtained through your activities in connection with this TPASA does not directly or indirectly in any respect cause Yahoo to violate any provision of Yahoo’s Privacy Policy;
+
+you will not resell, transfer, disclose, or make available any Advertising Statistics, Personally Identifiable Information, Permitted Information, or any other data gathered hereunder to any third party, except that you may disclose Advertising Statistics solely to the Yahoo Advertiser to which such Advertising Statistics relate in accordance with the terms of this TPASA, and you may disclose the aggregate number of Impressions or Click-throughs on all Advertisements served by you to the Network to customers, potential customers, and the general public, provided that such aggregated information does not specifically refer to Yahoo in any respect;
+
+if you have served Advertisements to the Network prior to the Effective Date, all data collected in connection with such Advertisements will be treated in all respects as if it were collected after the Effective Date and will be governed by the terms of this TPASA;
+
+to the extent you are permitted hereunder to collect any information or data through your serving of Advertisements to the Network, such information or data will be segregated on behalf of each individual Yahoo Advertiser on whose behalf such information or data was collected and will not be mixed, aggregated, or otherwise pooled, either with information or data of other Yahoo Advertisers or otherwise;
+
+you are a business, not a consumer; and
+
+you have entered into a Serving Agreement with each Yahoo Advertiser, or a party authorized to act on behalf of such Yahoo Advertiser, on whose behalf you are serving Advertisements and you have the legal authority to serve such Yahoo Advertisers’ Advertisements and take all actions permitted hereunder relating to such Yahoo Advertisers. Upon request by Yahoo, you agree to immediately deliver to Yahoo the agreement(s) that so authorize you to act on each Yahoo Advertiser’s behalf (or the entity authorized to act on behalf of such Yahoo Advertiser) in connection with this TPASA.
+
+Warranty Disclaimer
+
+YAHOO!’S PROGRAMS, DISTRIBUTION NETWORK, SYSTEMS, AND WEBSITES ARE PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTY, REPRESENTATION, CONDITION, OR GUARANTEE OF ANY KIND, EXPRESS OR IMPLIED, AND YOUR USE THEREOF IS AT YOUR OWN RISK. YAHOO! HEREBY DISCLAIMS ON BEHALF OF ALL YAHOO! ENTITIES ANY AND ALL WARRANTIES, REPRESENTATIONS, CONDITIONS, OR GUARANTEES, INCLUDING ANY WARRANTIES OR CONDITIONS OF TITLE, MERCHANTABILITY, MERCHANTABLE QUALITY, SERVICE QUALITY, NONINFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ANY LIABILITY OF THE YAHOO! ENTITIES IN CONNECTION WITH THE TPASA, UNDER ANY CAUSE OF ACTION OR THEORY, WILL BE STRICTLY LIMITED TO THE LESSER OF THE AMOUNT ALREADY PAID BY YOU TO YAHOO! PURSUANT TO THE TPASA IN THE SIX-MONTH PERIOD PRIOR TO THE EVENT GIVING RISE TO THE CLAIM AND U.S. $250,000 (OR ITS EQUIVALENT). IN NO EVENT WILL ANY YAHOO! ENTITY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF, OR IN CONNECTION WITH, THE TPASA.
+
+Confidentiality
+
+“Confidential Information” means any information disclosed by you to Yahoo or Yahoo to you, either directly or indirectly, in writing, orally, or by inspection of tangible objects that is designated as “Confidential,” “Proprietary,” or some similar designation. Information communicated orally and/or other intangible information will be considered Confidential Information if such information is confirmed in writing as being Confidential Information within a reasonable time after the initial disclosure. Confidential Information may also include information disclosed to a disclosing party by third parties. You expressly agree that all Advertising Statistics and Permitted Information and any other information or data collected by you through your serving of Advertisements to the Network, including information gathered about a User through the use of a cookie, will be treated as the Confidential Information of Yahoo, regardless of whether such information is marked as Confidential. Confidential Information will not, however, include any information which: (i) was publicly known and made generally available in the public domain prior to the time of disclosure by the disclosing party; (ii) becomes publicly known and made generally available after disclosure by the disclosing party through no action or inaction of the receiving party; (iii) is already in the possession of the receiving party at the time of disclosure by the disclosing party as shown by the receiving party’s files, records, and/or other competent evidence immediately prior to the time of disclosure; (iv) is obtained by the receiving party from a third party without a breach of such third party’s obligations of confidentiality; or (v) is independently developed by the receiving party without use of or reference to the disclosing party’s Confidential Information, as shown by documents and other competent evidence in the receiving party’s possession. The receiving party will not at any time (i) disclose, sell, license, transfer, or otherwise make available to any person or entity any Confidential Information of the disclosing party (except to disclose or make available to, in your case, your employees, and in Yahoo’s case, its employees, agents, representatives, contractors, account managers, and Affiliates, in each case who have a legitimate need to know such Confidential Information and are bound by confidentiality and non-use obligations not less restrictive than those set forth in this TPASA), or (ii) use, reproduce, or copy any Confidential Information of the disclosing party, except as necessary in connection with the purpose for which such Confidential Information is disclosed to the receiving party by the disclosing party, or in connection with or as set forth in the TPASA. All Confidential Information will remain the disclosing party’s property and all documents, electronic media, and other tangible items containing or relating to any Confidential Information of the disclosing party will be delivered to the disclosing party promptly upon the disclosing party’s written request. Notwithstanding the foregoing, neither Yahoo nor you will be required to remove copies of the other party’s Confidential Information from any backup media or servers. Nothing contained in the TPASA will prevent you or Yahoo or its Affiliates from complying with privacy laws and regulations. If there is any conflict between the TPASA and the terms of the applicable Yahoo privacy policy (“Privacy Policy”) (as posted on or linked from a Yahoo website), the TPASA will control. The receiving party may disclose Confidential Information of the disclosing party in connection with subpoenas, court orders, other legal processes, or as otherwise required by law, provided that the receiving party gives the disclosing party prompt written notice of such requirement (unless expressly prohibited in writing in such subpoena, court order, or other legal process) prior to such disclosure and takes reasonable steps to protect the information from public disclosure, and provided further that any such disclosure is limited to the minimum extent necessary to comply with the legal requirement. Notwithstanding anything to the contrary in the TPASA or the applicable Privacy Policy, all data and information gathered or received by Yahoo in connection with the TPASA, including your Confidential Information, and all information described in the Privacy Policy may be shared with and used by (x) the Yahoo Entities (and you acknowledge the country of the Yahoo Entity receiving the data or information may not afford the same level of protection of such data as the country in which the data or information was collected), and/or (y) certain selected third parties only in anonymous form. You may not issue any press release or other public statement regarding the TPASA or Yahoo or its Affiliates without Yahoo’s prior written consent.
+
+Notices.
+
+Yahoo may give notices to you by email, overnight courier, certified mail, or fax to the address or fax for legal notice provided by you to Yahoo in the TPASA or Third Party Ad Serving Questionnaire. It is your responsibility to ensure that your contact and account information (including your email and address) is current and correct, and you will promptly notify Yahoo in writing of any changes to such information. You will send all notices to Yahoo via recognized overnight courier or certified mail, return receipt requested, to: Oath Holdings Inc., Attn: General Counsel, 701 First Avenue, Sunnyvale, CA 94089; cc: General Counsel of the relevant Additional Territory if required in the Advertising Guidelines. Escalation contacts are set forth in Exhibit D. You agree that the person(s) listed under Contacts in Exhibit D will serve as your technical representative to Yahoo
+
+Choice of Law; Venue
+
+The terms of this TPASA and any dispute relating thereto or between you and Yahoo will be governed by the laws of the State of California, without regard to conflict/choice of law principles. The United Nations Convention on Contracts for the International Sale of Goods does not apply to the TPASA. You agree to submit to the exclusive jurisdiction of the state and federal courts located in Los Angeles County or Santa Clara County, California, or another location designated by Yahoo.
+
+Miscellaneous
+
+The TPASA constitutes the entire agreement and understanding between you and Yahoo regarding the subject matter contained herein and supersedes all proposals, representations, claims, and communications in all forms of media (including all instructions, advertisements, messages, and policies), written and oral, regarding the subject matter contained herein. No terms or conditions other than those set forth in this TPASA will be binding on Yahoo unless expressly agreed to in writing by Yahoo. Only a written instrument specifically waiving compliance that is executed by whichever of you or Yahoo is entitled to waive such compliance may waive any term(s) and/or condition(s) of the TPASA. No waiver by you or Yahoo of a breach of any provision hereof will be deemed a waiver of any other breach of such provision or a waiver of the provision itself. If any provision of the TPASA is held or made invalid or unenforceable for any reason, such invalidity will not affect the remainder of the TPASA, and the invalid or unenforceable provision will be replaced by a valid provision that has a similar economic effect. Yahoo will have no liability under the TPASA by reason of any failure or delay in the performance of Yahoo’s obligations on account of strikes, shortages, riots, acts of terrorism, insurrection, fires, flood, storm, explosions, earthquakes, Internet and/or electrical outages, computer viruses, acts of God, war, governmental action, or any cause that is beyond Yahoo’s reasonable control. You and Yahoo are independent contractors and nothing in the TPASA will be construed to create, evidence, or imply any agency, employment, partnership, or joint venture between you and Yahoo. Except as otherwise set forth in the TPASA, neither you nor Yahoo will have any right, power, or authority to create any obligation or responsibility on behalf of the other and the TPASA is not intended to benefit, nor will it be deemed to give rise to any rights in, any third party. Notwithstanding the foregoing, you acknowledge and agree that Yahoo Affiliates will be third-party beneficiaries to the TPASA and will be entitled to directly enforce, and rely upon, any provision in the TPASA which confers a benefit on, or rights in favor of, them. You may not assign, sublicense, or transfer the TPASA or any right or duty under the TPASA. Any assignment, transfer, or attempted assignment or transfer in violation of this Section 16 will be void and of no force or effect. Yahoo and its subsequent assignees may assign, delegate, sublicense, or otherwise transfer from time to time the TPASA, or the rights or obligations hereunder, in whole or in part, to any person or entity such as to its Affiliate(s). Any rights not expressly granted in the TPASA are reserved by Yahoo, and all implied licenses are disclaimed. Headings used in the TPASA are for reference purposes only. As used in the TPASA, the word “including” is a term of enlargement meaning “including without limitation” and does not denote exclusivity, and the words “will,” “shall,” and “must” are deemed to be equivalent and denote a mandatory obligation or prohibition, as applicable. Yahoo may change this TPASA at any time by posting such on the applicable Yahoo website or by email, and such revised TPASA will supersede and replace the earlier TPASA. Services and obligations to be performed by Yahoo hereunder may be performed by Yahoo Affiliates and/or third-party service providers. Any amounts payable to Yahoo under this TPASA shall be paid (a) in the currency and via the payment method indicated in the Yahoo invoice, and (b) free and clear of, and without deduction or withholding for, any taxes, currency control restrictions, or other withholdings. To the extent that you are required by law to make such deductions or withholdings, you shall gross up the relevant amount so as to ensure that Yahoo receives an amount that it would have received but for such deduction or withholding. In the event that any laws or regulations require withholding of income taxes imposed upon any payments payable under this TPASA, the parties will reasonably assist each other in resolving double taxation issues. All payment and related obligations survive the expiration or earlier termination of this TPASA. This TPASA supersedes and replaces any third-party ad server agreement previously entered into between the parties.
+
+Electronic Signatures
+
+You accept this TPASA and the terms, conditions, and notices contained or referenced herein by clicking on the “I Accept” (or equivalent) button/bar in connection with your enrollment. This action creates an electronic signature that has the same legal force and effect as a handwritten signature. When you click on the “I Accept” (or equivalent) button/bar during enrollment, you also consent to having this TPASA provided to you in electronic form. You have the right to receive this TPASA in non-electronic form and may request a non-electronic copy of this TPASA before or after you electronically sign this TPASA by submitting a request to Yahoo as specified in this TPASA. You also have the right, at any time, to withdraw your consent to have this TPASA provided to you in electronic form. Should you choose to withdraw your consent to have this TPASA provided to you in electronic form, Yahoo will discontinue your then-current username and password. This means that you will not have the right to serve any advertisements onto the Network unless and until Yahoo issues you a new username and password. Yahoo will only issue you a new username and password after Yahoo receive a signed copy of a non-electronic version of this TPASA, which Yahoo will send to you upon written request. To withdraw your consent and/or request a non-electronic copy of this TPASA, please send a letter and self-addressed, stamped envelope to the address set forth in Section 14, above. Your withdrawal of consent will be effective within a reasonable time after Yahoo receives your withdrawal notice described above. Prior to such effective date, this TPASA electronically signed by and provided to you will remain legally valid and enforceable. In order to access and retain the electronic TPASA, you must have access to the Internet, either directly or through devices that access web-based content, and pay any charges associated with such access. In addition, you must use all equipment necessary to make such connection to the Internet (e.g., a computer and modem or other access device). Please print a copy of this TPASA for your records.
+
+EXHIBIT A – CNAMES
+SET FORTH IN THIRD PARTY SERVER AGREEMENT
+EXHIBIT B - PERMITTED TAGS
+IFRAME (example tag if applicable)
+
+SET FORTH IN THIRD PARTY SERVER AGREEMENT
+JavaScript (example tag if applicable)
+
+SET FORTH IN THIRD PARTY SERVER AGREEMENT
+IMG/HREF(example tag if applicable)
+
+SET FORTH IN THIRD PARTY SERVER AGREEMENT
+EXHIBIT C – NETWORK
+Properties to which you may serve Advertisements
+All Yahoo properties owned, operated, authorized or hosted in the United States and Additional Territories, including all Yahoo.com properties, all non-English-language properties hosted in the United States (e.g., Yahoo Espanol), any properties hosted or directed as referenced under Exhibit F, and third-party properties for which Yahoo sells advertising, or as may be designated or excluded by Yahoo from time to time upon notice.
+
+EXHIBIT D - ESCALATION CONTACTS
+ESCALATION CONTACTS SET FORTH IN THIRD PARTY SERVER AGREEMENT
+EXHIBIT E - SERVICE LEVEL REQUIREMENTS (SLA)
+General:
+
+Ad Serving/Content Delivery services (“Services”) will be provided by you in a professional manner that is generally consistent with industry standards. You will provide 24 hour a day, 365 day a year technical support for the Service. The support provided by you shall be maintained at a level comparable to industry standards of other providers of the Services. In addition to your other obligations herein, you will be available to respond to phone, voicemail, or email requests or questions from Yahoo 24 hours a day, 365 days a year. The Service provided by you will be maintained at the standards set forth herein.
+
+Service Levels:
+
+You shall meet the following Service Levels:
+
+The Services will be provided with no Substantial Degradations in Service (defined below) to exceed two (2) hours for any single day, or four (4) hours for any single seven (7) consecutive day period, or eight (8) hours for any single thirty (30) consecutive day period. For purposes of the preceding sentence, a “day” shall mean any consecutive twenty-four hour period.
+
+For purposes of this SLA, a “Substantial Degradation in Service” means (i) the failure of Third-Party Server to deliver Advertisements in response to at least 99.751% of the ad requests in the Monitoring Region (the “Availability Service Level”) or (ii) Third-Party Server’s delivery time of an Advertisement in excess of 0.40 seconds, in each case according to Yahoo’s and/or its third-party provider’s measurements, as provided below.
+
+Monitoring Region:
+
+You will be responsible for maintaining such Service Levels individually in each region listed below (countries comprising such regions is determined by Yahoo). North America (NA)
+South America (SA)
+Europe, Middle East and Africa (EMEA)
+Asia/Pacific Region (APAC)
+
+Escalation procedures:
+
+You will provide Yahoo with a set of documented escalation procedures for critical issues with the your Services, including contact names and information, in Exhibit D to the TPASA.
+
+In the event of a Substantial Degradation in Service, immediately upon detection or notification of such Substantial Degradation in Service and in no event more than thirty (30) minutes thereafter, your customer service department (“Customer Service”) will notify Yahoo and provide details of the nature of the Substantial Degradation in Service via (i) e-mail at third-party-ads@yahoo-inc.com and, (ii) if provided by Yahoo, the email address and telephone number for the Yahoo Network Operations Center (which may be provided by Yahoo after the Effective Date of this TPASA). If your e-mail capabilities are compromised, Customer Service will contact Yahoo via telephone at the telephone contact information provided by Yahoo, including, if applicable, Yahoo’s Network Operations Center.
+
+In addition, you shall provide Yahoo with a workaround or correction for all “Errors” (defined as a failure of any portion of the Service to substantially perform in accordance with the TPASA or in a manner that is consistent with Yahoo’s delivery of ads/content with respect to quantity, quality, and timeliness of the ad/content provided, or any reproducible defect in a feature or function of the Service). In the event of an Error, immediately upon detection or notification of such Error and in no event more than thirty (30) minutes thereafter, you shall notify Yahoo in writing detailing the nature of the Error.
+
+Response Time:
+
+You shall respond to any Substantial Degradation in Service as soon as detected by or reported to you, but in no event more than thirty (30) minutes from the time such Substantial Degradation in Service is detected by or reported to you and shall remedy such Substantial Degradation in Service within one (1) hour of detection or notification thereof unless otherwise agreed between the parties in writing.
+
+You shall respond to any Errors as soon as detected by or reported to you, but in no event more than thirty (30) minutes from the time such Error is detected by or reported to you and shall remedy such Error within one (1) hour of detection or notification thereof unless otherwise agreed between the parties in writing.
+
+Measurement and Reporting:
+
+Yahoo and/or a third party hired by Yahoo (e.g., Keynote or Gomez) will monitor your delivery time and availability by making ad requests to you. Reporting on Yahoo’s and/or the third party’s measurements may be provided by Yahoo to you and/or Yahoo Advertisers at Yahoo’s discretion. All such reporting is Yahoo’s Confidential Information.
+
+Service Level Reports:
+
+You will provide to Yahoo within one week of the end of each month, a monthly report of all Substantial Degradations in Service, in a mutually agreed upon format. This report will only be generated if a Substantial Degradation in Service occurred in a given month.
+
+Coding Changes:
+
+You will provide Yahoo with at least ninety (90) days’ advance notice of any material changes to the ad serving/content delivery systems affecting ad serving and/or the ability of you to meet any of the terms of the TPASA, and shall promptly provide Yahoo with complete and accurate documentation of the changes.
+
+Remedies:
+
+You recognizes that your satisfaction of the Service Levels set forth in Sections 2, 3, 4 of this Exhibit E is of critical importance to Yahoo You and Yahoo acknowledge and agree that it is extremely difficult and impractical to ascertain the actual damages which will be suffered by Yahoo in the case of your failure to meet the Service Levels, and that the amount of damages specified below is a reasonable estimate of Yahoo’s damages.
+
+In the event of your failure to meet the Availability Service Level set forth in Section 2, you will pay Yahoo the following liquidated damages for each violation (but this shall not preclude Yahoo from claiming losses over and above these amounts, where necessary):
+
+SLA Review:
+
+If changes in Yahoo’s standards or technology occur, Yahoo may change this SLA by providing you with written notice. In the event Yahoo provides such notice, you may terminate this TPASA within thirty (30) days of receipt of such written notice by notifying Yahoo in writing of your intention to terminate.
+
+Methodology:
+
+Yahoo and/or a third party hired by Yahoo will monitor your delivery time and availability by making ad requests to you in the following manner: Yahoo and/or the third party will make one ad request to you every 10 minutes from between 10 and 15 tier one backbone nodes. Each tier one backbone node will make 1 request every 10 minutes for a total of 6 requests per hour from each node. Results from Yahoo and/or the third party monitoring will be rolled up and measured against the above service levels.
+
+Exhibit F
+Individual Territory Addendum
+This addendum varies this TPASA (including the Exhibits) as set forth at or within adspecs.yahoo.com, in relation to Yahoo properties located outside of the United States.
+
+* * *

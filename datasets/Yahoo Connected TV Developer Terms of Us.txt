@@ -1,0 +1,305 @@
+Yahoo Connected TV Developer Terms of Use
+ 
+A. Yahoo Connected TV Developer Terms of Use
+
+This Yahoo Connected TV Developer Terms of Use (“Developer TOU”) sets forth terms and conditions, additional to the Yahoo Terms of Service (“TOS”), that govern your access to and use of the Yahoo Connected TV Platform (the “Platform”). This Developer TOU and TOS, together with any additional terms, addendums, or documents that may be referenced therein (collectively, “Agreement”), form the entire agreement between you and Oath Holdings Inc. and its affiliates (collectively “Yahoo”) in connection with the Platform. By using any portion of the Platform, you accept the terms of this Agreement on your own behalf, or on behalf of the company, organization, or other legal entity for whom you use the Platform to develop or distribute TV Apps. If you disagree with any of the provisions in this Agreement, then Yahoo does not grant you permission to use the Platform or to license to any portion thereof. Yahoo may update and change this Agreement at any time without notice to you; your access to and/or use of the Platform after any such change means you accept such change.
+
+Capitalized terms not defined in this Developer TOU have the meaning ascribed to them in the TOS. Certain defined terms in this Developer TOU are included in the definitions of capitalized terms in the TOS, as follows: (a) the Platform is a Yahoo Service; accordingly, all references in the Agreement to Yahoo Service incorporate by reference the Platform, and (b) each TV App, together with related material (including but not limited to links, metadata, markup, information, trademarks, service marks, audio files, audio visual files, art, graphics, images, programming, video, third-party material, and other assets), is Content; accordingly, all references to Content in this Agreement incorporate by reference your TV Apps and related material. If there is a conflict between the terms of the Developer TOU and the TOS, the terms of the Developer TOU shall control. The imposition of additional enumerated restrictions or liabilities on your actions or omissions, by one document over the other, shall not be considered in and of itself a conflict. At any time you can review the most current version of the Developer TOU at https://policies.yahoo.com/us/en/yahoo/terms/product-atos/connectedtvdeveloper/index.html and the most current version of the TOS at https://policies.yahoo.com/us/en/yahoo/terms/utos/index.html.
+
+1. Definitions and General Obligations
+
+1.1 Please note that the terminology for our developer services and components have been updated in this Developer TOU, and Yahoo has noted, in parentheticals following certain capitalized terms, where old terminology is replaced by new terminology. Therefore, if you have agreed to a previous version of this Developer TOU, or a previous side agreement with Yahoo that makes reference to the old terminology for certain components, you understand and agree that the new terminology replaces the old terminology with respect to such components, and that in accepting this new version of the Developer TOU, you are accepting that these terms apply to pre-existing components (referenced by the old terminology) that correlate to the new terminology. The capitalized terms in this Agreement shall have the meanings ascribed to them as follows:
+
+“Authorized Users” means your employees, independent contractors, or co-workers who are developing your TV Apps or otherwise assisting in your development efforts on the Platform, and who require access to the ADK and Yahoo Confidential Information on a need-to-know basis in order to develop such TV Apps or assist in your development efforts on the Platform.
+
+“Creative” has the meaning set forth in Section A.2.2 herein.
+
+“OSS” means open source software subject to licenses (i.e., GNU General Public License or GNU Lesser/Library GPL) that require as a condition of use, copying, modification or distribution, that such software (including modifications or derivative works derived therefrom) be disclosed or distributed in source code form, to be licensed for the purpose of making derivative works, or to be redistributed free of charge.
+
+“Platform” (formerly “Yahoo TV Widget System”) means collectively (i) the Yahoo TV App Engine, (ii) the ADK, (iii) the Yahoo Connected TV Store, (iv) Yahoo TV Apps, (v) Creative; and (vi) and any other services, applications, programs, or features developed by Yahoo or on Yahoo’s behalf for the purposes of maintaining, distributing, and developing items (i) through (v) of this definition.
+
+“Sample Code” means exemplary source code, such as the source code for Yahoo TV Apps in the ADK provided by Yahoo and identified clearly as such by Yahoo in the ADK.
+
+“Territory” has the meaning set forth in Section A.2.10.b.
+
+“TV App” (formerly “TV Widget”) means an application developed to run on the Platform.
+
+“Yahoo Confidential Information” has the meaning set forth in Section A.5.
+
+“Yahoo Connected TV Application Development Kit” or “ADK” (formerly “Widget Development Kit,” or “WDK”) means, collectively, any software code, documentation, instructions, tutorials, runtime environments, testing environments, tools, APIs, files and other materials that Yahoo and/or Yahoo’s partners or affiliates make available to you to enable your development of TV Apps, including without limitation, the Yahoo Connected TV Engine, Yahoo TV Apps, Documentation, and Sample Code.
+
+“Yahoo Connected TV Engine” (formerly “Yahoo Widget Engine”) means the software platform that powers the Platform.
+
+“Yahoo Connected TV Store” (formerly “Yahoo Widget Gallery Service”) means Yahoo’s online retail service from which users may preview, download, or otherwise access TV Apps which run on the Platform.
+
+“Yahoo TV App” (formerly “Yahoo TV Widget”) means an application (or a template or toolbox thereof) owned by Yahoo.
+
+“Your (your) TV App” (formerly “Your TV Widget”) means an application developed by you or on your behalf, by using the ADK, and/or for operation on the Platform.
+
+1.2 You certify and represent to Yahoo that:
+
+a. you are of legal age in the jurisdiction in which you reside (at least 18 years of age in many countries) to enter into a binding contract;
+
+b. have the right and authority to enter into this Agreement on your own behalf;
+
+c. if you are using the Platform to develop and distribute TV Apps as an employee of, or at the request of, or on behalf of, another company, organization or person, that you have the right and authority to legally bind such company, organization or person to the terms and obligations of this Agreement;
+
+d. You will provide Yahoo with current, true, accurate and complete information about yourself and the company, organization or person that is the beneficiary of your development efforts on the Platform; and
+
+e. You will monitor and be responsible for Authorized Users’ use of the Platform and their compliance with the terms of this Agreement. 2. License Grants, Restrictions and Requirements for the Platform.
+
+2.1 ADK Components. Yahoo grants you and Authorized Users during the Term the worldwide, non-exclusive, non-assignable, and non-sublicenseable right to access, download, and use a reasonable number of copies of the ADK on computers owned or controlled by you, solely for the purposes of developing, testing, and distributing TV Apps, and further subject to the limitations and restrictions set forth in this Agreement. There are several components that may be referenced by or contained within the ADK. The terms and restrictions for your use of each of these components are as follows:
+
+a. Yahoo Connected TV Engine. The Yahoo Connected TV Engine is considered “Software” under the TOS. You may not reverse-engineer, decompile, disassemble, modify, decrypt, or create derivative works of the Yahoo Connected TV Engine. You may only copy and distribute the Yahoo Connected TV Engine to your Authorized Users solely for the internal purposes of testing your TV Apps.
+
+b. Sample Code. You may copy, modify, share, create derivative works from, and distribute Sample Code identified as such and provided by Yahoo to you in the ADK, provided that you do not use any images, audio files, or other Content apart from the code and follow these conditions:
+
+Redistributions in source code form must contain the copyright notice "Copyright © Oath Holdings Inc. 2008-[current year], All Rights Reserved," this list of conditions, and the disclaimer below.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the disclaimer below in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Yahoo nor the names of its contributors may be used to endorse or promote products derived from Yahoo TV Apps without specific prior written permission of Yahoo.
+
+DISCLAIMER TO BE INCLUDED WITH MODIFIED YAHOO TV APP CODE:
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+c. Documentation, tutorials, specifications, and definitions (collectively, “Documents”). You and your Authorized Users may copy and distribute the Documents internally for the purposes of development and testing of your TV Apps, in any medium, non-commercially and without modification only, provided that these Developer Terms of Use, the copyright notices, and the notice stating that these Developer Terms of Use apply to the Document are reproduced in all copies. You may not use technical measures to obstruct or control the reading or further copying of the copies you make or distribute. You may not accept compensation in exchange for copies.
+
+2.2 Creative. As part of Yahoo’s assistance to developers creating TV Apps, Yahoo may create and assemble images, graphics, video, audio, music, text, or any combination of the foregoing (“Creative”) as exemplary designs for illustrative purposes, or for production use by developers. If you desire to use such Creative and Yahoo has indicated to you in writing that you may use such Creative in your TV App, then Yahoo grants you during the Term the worldwide, non-assignable, non-sublicensable, and non-exclusive license to reproduce, distribute, and display the Creative solely within your TV App, and in any medium in connection with the promotion and marketing of such TV App, solely for as long as your TV App is available to users via the Yahoo Connected TV Store. While Yahoo owns the copyright to all portions of the Creative which Yahoo has originally developed and created, the underlying materials from which the Creative is composed may be subject to the rights of third parties, such as stock photography images providers. Therefore, you are responsible for separately obtaining the appropriate rights from such third parties to use such underlying materials.
+
+2.3 You may not incorporate any OSS into your TV App in a manner that would cause the non-OSS portions of the ADK to be subject to any OSS licensing requirements.
+
+2.4 You may not distribute, share, or transfer (except as otherwise permitted in this Section 2), or sell, lease, reverse-engineer, derive income from the provision of, derive the source code of (if Yahoo provides such code only in binary), decompile, or sublicense any or all of the ADK or Yahoo Connected TV Store and any access or access codes thereto. If you make copies or reproduce any portion of the ADK, you shall retain and reproduce in full the copyright, disclaimers and other proprietary notices as they appear in the ADK.
+
+2.5 While you may communicate generally to the public about your TV Apps, you must do so truthfully, and you may not use the Yahoo trademarks, service marks, or logos in connection with your TV Apps, or otherwise give the general public the impression that any of your TV Apps are created, endorsed, or sponsored by Yahoo.
+
+2.6 You may provide technical and other evaluation and feedback to Yahoo concerning the Platform, Yahoo Connected TV Store, ADK, or Yahoo TV Apps (“Feedback”). You shall not provide any Feedback to Yahoo that consists of proprietary or confidential information for which you do not have the right to share with Yahoo. Any Feedback you provide to Yahoo will be subject to the license terms set forth in Section 3 of this Agreement.
+
+2.7 You may not distribute your TV Apps to run except on the Platform and as set forth in Section 2.10 (Yahoo Connected TV Store).
+
+2.8 You MAY NOT create TV Apps within the Platform, create or serve advertising within your TV Apps, or otherwise use the Platform, to do the following things:
+
+a. promote or distribute time bombs, crash bugs, viruses or other devices or functions that will or may harm, disrupt, or destroy any data, information, material, equipment, network, system or function, or to promote any products, services, or materials that constitute, promote or are used primarily for the purpose of distributing spyware, adware, spam, phishing, or other malicious programs or code;
+
+b. promote or distribute child pornography, counterfeit goods, items subject to U.S. embargo, hate materials or materials urging acts of terrorism or violence, goods made from protected animal/plant species, recalled goods, hacking/surveillance/interception/descrambling equipment, tobacco products, illegal drugs and paraphernalia, unlicensed sale of prescription drugs and medical devices, body parts and bodily fluids, stolen products and items used for theft, fireworks, explosives, and hazardous materials, government IDs, police items, unlicensed trade in stocks and securities, professional services regulated by state licensing regimes, non-transferable items such as airline tickets or event tickets, non-packaged food items, weapons or accessories; and any services or products which are illegal in the jurisdiction in which your TV App is distributed;
+
+c. provide financial services or financial transaction products, or gambling or gambling items without Yahoo’s prior written consent;
+
+d. in any manner or for any purpose that violates any law or regulation in the Territory, or any right of any person, including but not limited to intellectual property rights, rights of privacy, or rights of publicity;
+
+e. operate nuclear facilities, life support, or other mission critical application where human life or property may be at stake, because you understand that the Platform is not designed for such purposes and that its failure in such cases could lead to death, personal injury, or severe property or environmental damage for which Yahoo is not responsible;
+
+f. use Yahoo’s services in a manner that exceeds reasonable request volume, constitutes excessive or abusive usage, or otherwise fails to comply or is inconsistent with this Agreement, or other requirements or guidelines as determined by Yahoo in its sole discretion;
+
+g. scrape or store a user’s credentials (i.e., passwords and user log-in i.d.) or other personally identifiable information for the purposes of accessing such user’s service accounts (e.g., Yahoo account(s)), or accesses tokens, or otherwise authenticates against Yahoo’s or a third party’s user database without the permission of the user, and Yahoo (or such third party, as relevant);
+
+h. promote or distribute adult or pornographic content (even if legal in your jurisdiction);
+
+i. contain any obscene or offensive materials (as reasonably determined by Yahoo);
+
+j. download, reproduce, or retransmit any content in a manner not authorized by the owner thereof;
+
+k. promote or distribute a TV App which is marketed specifically for the purposes of locating and displaying “pirated” content (i.e., content distributed in a manner that violates copyright) on the Internet;
+
+l. remove any digital rights management or similar content protection technology associated with Internet content that is accessed by your TV App;
+
+m. intentionally obfuscate (to the extent legally prohibited) any device characteristic information, e.g., device ID, device locale, IP address, MAC address and other available information from a television or peripheral device to which your TV App has been downloaded; and
+
+n. distribute or make available any TV App whose primary purpose is to facilitate the distribution or sale of TV Apps outside of the Yahoo Connected TV Store, without Yahoo’s prior written consent.
+
+2.9 You SHALL do the following when accessing or using the Platform:
+
+a. If your TV App (including any advertising or advertising services contained therein) will access, collect, store, copy, distribute, or otherwise use the personal information of users, such as users’ log-in and password credentials, email addresses, location or geographical information, or any information or files stored or created by a particular user on an Internet service or website, you must (a) notify each user of such TV App with how the user’s personal information will be accessed, collected, stored, transmitted, shared with third parties, and otherwise used by you and your TV App; (b) obtain lawful consent from such user; (c) access, collect, store, transmit, share, and use such personal information lawfully and in a manner that respects and safeguards the user’s privacy; and (d) maintain and post a privacy policy which truthfully and accurately describes items (a) through (c) in this Section. You agree to comply with your privacy policy and provide clear information to the user on how to access that privacy policy.
+
+b. You represent and warrant to Yahoo that you have the right to use, reproduce, transmit, copy, publicly display, publicly perform, and distribute any Content in or made available via your TV Apps in the manner contemplated under this Agreement. You further represent and warrant that use by Yahoo or others of any such Content and your TV Apps via the Platform as contemplated under this Agreement shall not violate the proprietary or personal rights of any person or entity (e.g., copyright, patent, trademark, right of publicity, or privacy), or any applicable regulation or law, specifically including but not limited to the Children's Online Privacy Protection Act ("COPPA").
+
+c. If Yahoo notifies you that any of your TV Apps or Content have allegedly or in fact infringed upon any third party rights or violated any relevant laws, you will use expedited and best efforts to (a) assist Yahoo in any investigation of such alleged infringement or violation; or (b) remove or disable access to such TV Apps or allegedly infringing or unlawful Content immediately.
+
+d. You shall truthfully represent at all times what your TV Apps will do for users, and what your TV Apps will do with user data. You will comply with all legal process served upon you or upon Yahoo by litigants or government agencies seeking the disclosure of information concerning your TV App, including user data collected and/or stored by you or your TV App. You are also solely responsible for all costs associated with processing such requests. In responding to such requests, you shall comply with all applicable local, state, national and foreign laws, treaties and regulations in connection with the disclosure of user data.
+
+e. You will provide all reasonably requested information and ensure that such information is accurate at all times.
+
+f. You shall be solely responsible for developing your TV Apps, and for any Content or services that you display, transmit, make available, or distribute via your TV Apps. You will be solely responsible for obtaining any clearance rights or permissions for any Content that you that you display, transmit, make available, or distribute via your TV Apps. You shall also be solely responsible for supporting users of your TV Apps and for providing and enforcing terms, policies and restrictions applicable to your TV Apps with such users. You shall provide a legitimate email address or publicly accessible website to which users can submit their questions, complaints, and feedback about your TV Apps.
+
+g. You shall promote and refer to all applications developed with the ADK or developed to run on the Yahoo Connected TV Engine with the label of “TV Apps.”
+
+h. You shall present your end users with a lawful end user license agreement and privacy policy, and a reasonably convenient means by which end users can reach you for support of your TV App (e.g., email address or link to web based support tools), and make each of the foregoing reasonably discoverable from your TV App.
+
+i. You shall be solely responsible for any and all product warranties (whether specified in your end user license agreement or established under applicable law), product liability claims, refund or return requirements (whether specified in your end user license agreement or established under applicable law) and end user assistance and product support with respect to each of your TV Apps.
+
+2.10 Yahoo Connected TV Store.
+
+a. Yahoo provides the Yahoo Connected TV Store, which allows developers to distribute their TV Apps internationally, and which provides users with access to various TV Apps created by developers and Yahoo. Yahoo shall market and promote TV Apps from time to time within the Yahoo Connected TV Store. You may only distribute your TV Apps to run on the Platform if you submit your TV App to the Yahoo Connected TV Store, Yahoo accepts your submission, and you comply with the terms of use herein.
+
+b. During the TV App submission process, you will be able to determine the distribution territory for your TV Apps by geography and OEM channel (the “Territory”).
+
+c. By submitting your TV App to the Yahoo Connected TV Store, you represent and warrant that your TV App complies with this Agreement. You may not submit a TV App to the Yahoo Connected TV Store if it does not comply with this Agreement. Even if your TV App complies with this Agreement, Yahoo shall have the right to exclude your TV App from the Yahoo Connected TV Store.
+
+d. By submitting your TV App to the Yahoo Connected TV Store, you hereby represent and warrant that you have the right to, and do grant to Yahoo, its affiliates, and distribution partners of Yahoo and its affiliates, a worldwide, non-exclusive, fully paid-up, royalty-free license to store, archive, access, distribute, publicly display, publicly perform, copy, and transmit:
+
+i. your TV App and Content, within the Territory via any medium or communications systems through which the Platform is made available, including, without limitation, the Internet;
+
+ii. excerpts and screen shots of your TV App or Content, in any medium, in connection with the marketing and promotion of the Platform, associated products and services, and/or your TV App; and
+
+iii. otherwise use your TV App and Content as may be reasonably necessary in the marketing and delivery of the TV Apps in accordance with this Agreement.
+
+e. If Your TV App is accepted by Yahoo to be displayed and distributed via the Yahoo Connected TV Store, you may generally communicate to the public that Your TV App is in the Yahoo Connected TV Store, but you may not mislead the public by stating or implying that Your TV App is endorsed or sponsored by Yahoo You may not issue a press release concerning Yahoo without Yahoo’s prior written approval.
+
+f. You shall provide truthful and accurate information when submitting your TV App to the Yahoo Connected TV Store, and you shall amend such information when you submit updated versions of your TV App if that is necessary to maintain the truthfulness and accuracy of information about Your TV App.
+
+g. Yahoo reserves the right to remove Your TV App from the Yahoo Connected TV Store at any time and for any reason in its sole discretion, and in particular if Yahoo deems in its sole discretion that you or Your TV App does not comply with the Developer TOU and the TOS.
+
+2.11 Yahoo reserves the right, in its sole discretion, to access, preserve, or disclose information regarding your TV App, including but not limited to code executed by the Yahoo Connected TV Store, and user data collected and/or stored by you or your TV App, in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (i) comply with legal process; (ii) enforce this Agreement; (iii) respond to claims that any user data, personal data, or usage data violates the rights of third parties; (iv) respond to a user’s request for technical support; or (v) protect the rights, property or personal safety of Yahoo and its affiliates, its users and the public. If your TV App does not comply with this Agreement, Yahoo reserves the right to remove, disable access to, or block your TV App from operating on the Yahoo TV System.
+
+3. Ownership and Intellectual Property.
+
+3.1 Yahoo and its licensors own all right, title, and interest in and to the Platform and any updates, modifications, or derivatives thereof. The Platform is protected by copyrights, trademarks, service marks, international treaties, and/or other proprietary rights and laws of the U.S. and other countries. You agree to abide by all applicable proprietary rights laws and other laws, as well as any additional copyright notices or restrictions contained in this Agreement. Yahoo will have a perpetual, worldwide, irrevocable, sublicensable, and royalty-free license to utilize, modify, and distribute your Feedback, as well as incorporate such Feedback into the Platform, or any versions thereof. However, you agree that Yahoo’s incorporation of Feedback into Yahoo’s products and services does not grant you any proprietary rights therein. Other than the license grant expressly set forth herein, this Agreement grants you no right, title, or interest in any intellectual property owned or licensed by Yahoo.
+
+3.2 You own all right, title, and interest in and to any TV Apps (except for any Sample Code that is integrated into the TV Apps) that you develop, and any derivative works thereof. As a condition of using the Platform, you grant Yahoo a worldwide, non-exclusive, perpetual, sublicensable license to access, distribute, display, copy, and perform your TV App and Content in accordance with the license grant to Yahoo in section 2.10(d) above.
+
+4. Updates; No Support or Maintenance
+
+Yahoo may extend, enhance, or otherwise modify the Platform or any components thereof (“Updates”) at any time without notice, but Yahoo has no express or implied obligation to provide you with any such Updates. If Yahoo does provide you with Updates, then your use of and access to such Updates is governed by this Agreement. Yahoo is not obligated to provide any maintenance, technical or other support for the Platform.
+
+5. Confidentiality.
+
+5.1 Information Deemed Confidential.
+
+You agree that versions of the Platform that have not been released to the general developer community or public, and any other non-public information that you learn about Yahoo’s products, designs, research, development, know-how, business, finances, or personnel in connection with your use of any part of the Platform, shall be deemed “Yahoo Confidential Information” under this Agreement.
+
+5.2 Obligations Regarding Confidential Information.
+
+You agree to protect Yahoo Confidential Information using at least the same degree of care that you use to protect your own confidential information of similar importance, but no less than a reasonable degree of care. You may use Yahoo Confidential Information solely for the purpose of exercising your rights and performing your obligations under this Agreement. You may not use Yahoo Confidential Information for any other purpose, or for your own or any third party’s benefit, without the express prior written consent of an authorized representative of Yahoo. You further agree not to disclose or disseminate Yahoo Confidential Information to anyone, or to discuss anything about the Yahoo Confidential Information with anyone, other than those of your Authorized Users who are bound by a written agreement that prohibits unauthorized use or disclosure of the Confidential Information, or except as otherwise agreed in writing by Yahoo. You may disclose Yahoo Confidential Information to the extent required by law, provided that you take reasonable steps to notify Yahoo of such requirement before disclosing the Yahoo Confidential Information and to obtain protective treatment of the Yahoo Confidential Information. You acknowledge that damages for improper disclosure of Yahoo Confidential Information may be irreparable; therefore, Yahoo is entitled to seek equitable relief, including injunction and preliminary injunction, in addition to all other remedies.
+
+5.3 Press Releases and Other Publicity.
+
+You may not issue any press releases or make any other public statements regarding this Agreement, its terms and conditions, or the relationship between you and Yahoo, without Yahoo’s express prior written approval.
+
+6. Term and Termination.
+
+This Agreement commences upon your receipt or use of any portions of the Platform, and continues until terminated by either you or Yahoo (the “Term”). You may terminate this Agreement at any time by discontinuing your use of the Platform and by destroying all your copies of the ADK. This Agreement terminates automatically if you violate any of its terms, Yahoo publicly posts a written notice of termination on Yahoo's web site(s) or on the Platform, or Yahoo sends a written (including email or text message) notice of termination to you directly. Your obligations in this Agreement survive its termination.
+
+7. Disclaimer of Warranties.
+
+YAHOO DOES NOT REPRESENT OR WARRANT THAT THE PLATFORM, OR ANY PORTION THEREOF, IS FREE OF INACCURACIES, ERRORS, BUGS, OR INTERRUPTIONS, OR IS RELIABLE, ACCURATE, COMPLETE, OR OTHERWISE VALID.
+
+THE PLATFORM IS PROVIDED "AS IS" WITH NO WARRANTY, EXPRESS OR IMPLIED, OF ANY KIND AND YAHOO EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AVAILABILITY, SECURITY, TITLE AND NON-INFRINGEMENT.
+
+YOUR USE OF THE PLATFORM IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS, DIRECTLY OR INDIRECTLY, FROM YOUR USE OF IT, INCLUDING, BUT NOT LIMITED TO, ANY LOSS OF DATA OR DAMAGE TO YOUR OR ANY OF YOUR TV APP USERS’ TELEVISIONS, COMPUTER SYSTEMS OR SOFTWARE.
+
+8. Limitation of Liability.
+
+YAHOO SHALL NOT UNDER ANY CIRCUMSTANCES BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE PLATFORM, WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE, PRODUCT LIABILITY OR OTHERWISE), OR ANY OTHER PECUNIARY LOSS, WHETHER OR NOT YAHOO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL YAHOO’S TOTAL LIABILITY TO YOU UNDER THIS AGREEMENT FOR ALL CUMULATIVE DAMAGES EXCEED THE AMOUNT OF US $100.00.
+
+9. Exclusions and Limitations.
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS IN SECTIONS 7 AND 8 MAY NOT APPLY TO YOU.
+
+10. Hold Harmless and Indemnity.
+
+To the maximum extent permitted by applicable law, you agree to hold harmless and indemnify Yahoo and its subsidiaries, affiliates, officers, employees, agents, licensors, co-branders, distribution partners or other partners from and against (i) any breach by you of any warranty, representation, or obligation set forth in the Agreement, and (ii) any third party claim arising from or in any way related to your use or your Authorized Users’ use of the Platform in a manner inconsistent with this Agreement, including any liability or expense arising from all claims, losses, damages (actual and/or consequential), suits, judgments, litigation costs and attorneys' fees, of every kind and nature. Yahoo shall use good faith efforts to provide you with written notice of such claim, suit or action.
+
+11. General Terms.
+
+11.1 Relationship of the Parties. Notwithstanding any provision hereof, for all purposes of this Agreement, you and Yahoo shall be and act independently and not as partner, joint venturer, agent, employee or employer of the other. You shall not have any authority to assume or create any obligation for or on behalf of Yahoo, express or implied, and you shall not attempt to bind Yahoo to any contract.
+
+11.2 Invalidity of Specific Terms. If any provision of these TOU is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision and the other provisions of such documents remain in full force and effect.
+
+11.3 Location of Lawsuit and Choice of Law. This Agreement and the relationship between you and Yahoo shall be governed by the laws of the United States and the State of California without regard to its conflict of law provisions. You and Yahoo agree to submit to the personal jurisdiction of the courts located within the county of Santa Clara, California.
+
+11.4 No Waiver of Rights by Yahoo. Yahoo's failure to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.
+
+11.5 Statute of Limitations. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to your use of the Platform or this Agreement must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+
+11.6 Assignment. This Agreement may not be assigned, nor may any of your obligations under this Agreement be delegated, in whole or in part, by you by operation of law, merger, or any other means without Yahoo’s express prior written consent and any attempted assignment without such consent will be null and void. Yahoo may assign its rights and obligations under this Agreement in whole or in part to its affiliates and subsidiaries without notice to you.
+
+11.7 Miscellaneous. The section headings and subheadings contained in this Agreement are included for convenience only, and shall not limit or otherwise affect this Agreement. Any construction or interpretation to be made of this Agreement shall not be construed against the drafter. This Agreement and any documents incorporated herein by reference constitute the entire agreement between Yahoo and you with respect to the subject matter hereof superseding any prior agreements between you and Yahoo with respect to the Platform.
+
+11.8 Government End Users. The Yahoo Connected TV Engine, ADK, and any Software are “Commercial Items,” as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. Unpublished rights are reserved under the copyright laws of the United States.
+
+11.9 Export and Import Compliance. The Yahoo Connected TV Engine, ADK, and any Software are subject to the United States export controls and may be subject to the export or import regulations of other countries. You agree to comply strictly with all applicable export and import laws and regulations. In particular, you: (a) represent and warrant that you are not a party identified on any government export exclusion lists, including but not limited to the U.S. Denied Persons, Entity, and Specially Designated Nationals Lists; (b) you are not located in or a national of a country subject to U.S. embargo (as of February 2009, the countries subject to U.S. embargo are: Cuba, Iran, North Korea, Sudan and Syria); (c) agree not to use the Yahoo Connected TV Engine, ADK, and any Software for military, nuclear, missile, chemical or biological weaponry end uses in violation of U.S. export laws; (d) agree not to re-export or transfer the Yahoo Connected TV, ADK, and any Software in violation of the U.S. export controls.
+
+11.10 Export compliance for TV Apps. You hereby certify that all of the TV Apps you deliver to Yahoo are authorized for export from the United States to each of the countries in the Territory you designated, in accordance with the requirements of the United States Export Administration Regulations. You certify that (i) none of the TV Apps contain, uses or supports any data encryption or cryptographic functions; or (ii) in the event that any TV App contains, uses or supports any such data encryption or cryptographic functionality, you have qualified that TV App for export as a “mass market encryption item” in accordance with section 742.15(b)(2) of the Export Administration Regulations, and you will provide Yahoo with a PDF copy of the mass market export classification ruling (CCATS) issued by the United States Commerce Department, Bureau of Industry and Security for that TV App for purposes of determining the proper export classification and export control status of each TV App. You acknowledge that Yahoo is relying upon your certification in this Section 11.10 in allowing end users to access and download the TV Apps under this Developer TOU.
+
+B. Paid TV App Addendum 1 to the Yahoo Connected TV Developer Terms of Use
+
+This Paid TV App Addendum 1 to the Yahoo Connected TV Developer Terms of Use (“Paid Addendum ”) sets forth additional terms to the Developer TOU, and governs your sale (e.g., in exchange for money) of TV Apps to end users on the Yahoo Connected TV Store. If there is a conflict between the terms of this Paid Addendum and the rest of this Agreement, the terms of this Paid Addendum will control. At any time you can review the most current version of the Paid TV App Addendum 1 to the Yahoo Connected TV Developer Terms of Use at https://policies.yahoo.com/us/en/yahoo/terms/product-atos/connectedtvdeveloper/index.html. The Yahoo Connected TV Store (the “Store”) is a Yahoo Service and all references in the TOS to the Yahoo Service will apply to the Store.
+
+1. Overview. The Store is a payment platform that is linked to the Yahoo Connected TV Store where you can sell your TV Apps to end users (“Paid TV Apps”). This Paid Addendum does not apply to your TV Apps that you offer for free (e.g., without payment of money) in the Yahoo Connected TV Store.
+
+2. Authorization as Agent
+
+2.1 You hereby appoint Oath Holdings Inc., a Delaware company, as your agent for the marketing, sale and delivery of your TV Apps to end users, on a non-exclusive basis, in accordance with this Paid Addendum. For purposes of this Paid Addendum, the term “Paid TV App” includes any additional functionality, Content or services sold by you from within a Paid TV App.
+
+2.2 You hereby authorize and instruct Yahoo, as your agent, to:
+
+a. Host, make copies of, format, and otherwise prepare your Paid TV Apps for download by end users;
+
+b. Market your Paid TV Apps to end users;
+
+c. Solicit, and obtain orders from, and deliver Paid TV Apps to, end users on your behalf for your Paid TV Apps;
+
+d. Issue invoices for the sale price paid by end users and collect the purchase price from end users for your Paid TV Apps, using a payment system Yahoo integrates into its Store, where Yahoo may appear as the merchant of record on orders purchased by end users using a credit or debit card; and
+
+e. Be responsible for the collection of all sale prices payable by end users for your Paid TV Apps sold through the Store.
+
+2.3 You acknowledge and agree that you are the principal and that Yahoo is acting solely as your agent to affect the sale of your Paid TV Apps on the Store. As such, you are solely responsible for any and all claims and liabilities involving or relating to your Paid TV App, including with respect to any functions such as hosting and sale of your Paid TV App that Yahoo performs.
+
+2.4 For purposes of this Paid Addendum, Yahoo’s appointment as your agent will survive expiration or termination of this Agreement for a reasonable phase-out period not to exceed 30 days.
+
+3. Selling Your Paid TV App
+
+3.1 You solely determine the sales price tier of your Paid TV App and services contained therein when you submit your Paid TV App. For the current price tier table, go to https://smarttv.yahoo.com/. However, the pricing reflected in each sales price tier are subject to change at any time by Yahoo, and Yahoo will use good faith efforts to notify you of such changes.
+
+3.2 I f the purchase of your Paid TV App is subject to any withholding or similar tax, or any sales, use, goods and services, value added, or other tax, levy, or other fee, you are responsible for paying the full amount of that tax, levy, or other fee, and the Agent Fee to which Yahoo is entitled under this Paid Addendum will not be reduced by and such tax, levy, or other fee. You will indemnify and hold Yahoo harmless against any and all claims: (i) by any tax authority for any underpayment of any sales, use, goods and services, value added; or (ii) for other tax, levy, or fee, and any penalties and/or interest thereon.
+
+3.3 As your agent, Yahoo will be solely responsible for the collection of all prices payable by end users for your Paid TV Apps.
+
+4. Your Remittance
+
+4.1 Upon collection of any amounts from any end user for the sale price of your Paid TV App purchased from the Store, Yahoo may deduct any applicable taxes, levy, or other fee from such sale price, resulting in the “Net Revenue” amount. Yahoo will deduct 30% of such Net Revenue as its agent fee (“Agent Fee”) and will remit to you the remaining 70% of such Net Revenue, in accordance with Yahoo’s standard business practices and the following:
+
+a. Remittance payments are made by Yahoo’s then current payment methods, which may change from time to time;
+
+b. You are subject to minimum monthly remittance amount thresholds of USD $100.00, subject to change at any time by Yahoo;
+
+c. You must provide certain information related to your remittance and that information must be accurate at all times;
+
+d. Subject to the foregoing requirements, your remittance will be made no later than 45 days following the close of the calendar month in which the corresponding amount was received by Yahoo from the end user. You agree that even if Yahoo is unable to collect the price for that Paid TV App from that end user, Yahoo will be entitled to the Agent Fee for its services rendered hereunder; and
+
+e. In the event that the sale price received by Yahoo from any end user for any Paid TV App is in a currency other than the remittance currency agreed between Yahoo and you, the sale price for that Paid TV App will be converted to the remittance currency before any applicable amounts are remitted by Yahoo to you. You agree that any resulting currency exchange differentials or fees charged may be deducted from such remittances. You remain responsible for any fees (e.g., wire transfer fees) charged by your bank or any intermediary banks.
+
+4.2 If any remittance made by Yahoo to you is subject to any withholding or similar tax, the full amount of that withholding or similar tax will be solely for your account, and will not reduce the Agent Fee to which Yahoo is entitled on that transaction. If Yahoo reasonably believes that such tax is due, Yahoo may deduct the full amount of such withholding or similar tax from the gross amount owed to you, and may pay the full amount withheld over to the competent tax authorities. Yahoo will apply a reduced rate of withholding tax, if any, provided for in any applicable income tax treaty only if you furnish Yahoo with such documentation required under that income tax treaty or otherwise satisfactory to Yahoo, sufficient to establish your entitlement to the benefit of that reduced rate of withholding tax. Upon your timely request to Yahoo in writing, using means reasonably designated by Yahoo, Yahoo will use commercially practical efforts to report to you the amount of Yahoo’s payment of withholding or similar taxes to the competent tax authorities on your behalf. You will indemnify and hold Yahoo harmless against any and all claims by any competent tax authority for any underpayment of any such withholding or similar taxes, and any penalties and/or interest thereon, including, but not limited to, underpayments attributable to any erroneous claim or representation by you as to your entitlement to, or your disqualification for, the benefit of a reduced rate of withholding tax.
+
+4.3 You agree that no royalty or other compensation is payable for the rights described above in this Paid Addendum.
+
+5. Representations and Warranties
+
+In addition to the other representations and warranties in this Agreement, you further represent and warrant that:
+
+5.1 You have the right to enter into this Agreement, to reproduce and distribute each of the Paid TV Apps, and to authorize Yahoo at no cost to host your Content and permit end users to download, purchase and use each of the Paid TV Apps through one or more Store, in each country of the Territory; and
+
+5.2 Each of the Paid TV Apps is authorized for distribution, sale and use in, export to, and import into the Territory, in accordance with the laws and regulations of the Territory and any intellectual property or rights associated with the Paid TV App and Content.
+
+6. Responsibility and Liability
+
+6.1 You agree to comply with, and provide the support required pursuant to, Section 2.9 of Agreement, for at least one year after any end user purchase of your Paid TV App.
+
+6.2 You may remove your Paid TV App from the Yahoo Connected TV Store at any time, but agree: (a) to comply with Paragraph 6.1 of this Agreement; (b) that you remain subject to any refund requirements; and (c) that you will continue to fulfill any other obligations you have with any end user.
+
+6.3 If your Paid TV App fails to conform to your specifications or your product warranty or the requirements of any applicable law, or an end user expresses other reasonable concerns regarding the Paid TV App, including by charging back the price of the Paid TV App to Yahoo, you authorize Yahoo to refund to the end user up to the full amount of the price paid by the end user for that Paid TV App. If Yahoo refunds any such price to an end user, you will reimburse, grant Yahoo a credit for, or allow Yahoo to offset against your future sales of Paid TV Apps, an equivalent amount up to the price for that Paid TV App, plus any associated fees (i.e. credit and debit card chargebacks, penalties and payment transaction fees). Yahoo will have the right to retain its Agent Fee on the sale of that Paid TV App, notwithstanding the refund of the price to the end user or any end user chargebacks.
+
+6.4 If you no longer have the legal right to distribute, sell, or operate your Paid TV App, or to authorize Yahoo to allow access to those Paid TV Apps by end user, you will promptly withdraw those Paid TV Apps from the Store; provided, however, that such withdrawal by you will not relieve you of any of your obligations to Yahoo under this Paid Addendum, or any liability to Yahoo or any end user with respect to those Paid TV Apps. In addition, you must refund to Yahoo all amounts received, plus any associated fees (i.e. chargebacks and payment transaction fees), and Yahoo may offset such amounts against your future sales of Paid TV Apps.
+
+6.5 Yahoo reserves the right to cease marketing and allowing download by end users of the Paid TV Apps at any time, with or without cause, by providing notice of termination to you.
+
+7. Effect of Termination
+
+Upon the expiration or termination of the Agreement, Yahoo will be entitled to: (a) all Agent Fees on all Paid TV Apps purchased by end users prior to the date of termination, and (b) reimbursement from you of refunds of Paid TV Apps by Yahoo to end users, whether before or after the date of termination.
+
+8. Store Termination
+
+You acknowledge and agree that Yahoo may terminate the Store at any time and you agree that your participation in the Store is at your own risk. Yahoo makes no representations or warranties that the Store will be made generally available in the future.
+
+Version dated 2018-01-02

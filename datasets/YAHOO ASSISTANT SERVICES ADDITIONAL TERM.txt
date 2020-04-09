@@ -1,0 +1,79 @@
+YAHOO ASSISTANT SERVICES ADDITIONAL TERMS OF SERVICE
+ 
+1. ACCEPTANCE OF TERMS
+
+a. Oath Holdings Inc. (“Yahoo”) provides messaging, assistant, communication, search, and interaction products, including chat bots operating in messenger platforms, virtual personal assistants and stand-alone apps accessed on Yahoo or through third-party apps and services (“Assistant Services”), all of which are subject to the terms and conditions of this Yahoo Assistant Services Additional Terms of Service (“ATOS”) https://policies.yahoo.com/us/en/yahoo/terms/product-atos/assistant-services/index.htm and the Yahoo Universal Terms of Service (“UTOS”) located here https://policies.yahoo.com/us/en/yahoo/terms/utos/index.htm and incorporated by reference into this ATOS. Your use of the Assistant Services constitutes acceptance of, and is subject to, this ATOS and the UTOS. This ATOS and the UTOS may be updated by Yahoo from time to time without individual notice to you. You can review the most current version of this ATOS and the UTOS by clicking the applicable links above.
+
+b. Assistant Services may interact and converse with you to answer questions, help complete tasks or perform other activities. Assistant Services rely on Yahoo personnel and/or automated systems to respond to questions or instructions from users.  
+
+c. Yahoo may collect information about you when you use the Assistant Services, including your conversations and interactions with the Assistant Services, your Yahoo ID and information associated with your Yahoo account.
+
+d. We may also collect information provided by a third-party (including apps, messaging platforms and other services) interacting with the Assistant Services, which could include: your account information with the third-party, such as user ID, name, photo, phone number, email address; and device information such as device ID, device type, operating system, and mobile carrier.  
+
+e. Yahoo’s personnel and automated systems may have access to all communications content as it is sent, received, and when it is stored, in order to fulfill your requests, further product and services development, and provide personalized experiences and advertising through Yahoo’s products and services.
+
+f. By accessing, using and continuing to use the Assistant Services, you represent and warrant that you are permitted to do so under applicable law. You are solely responsible for using the Assistant Services in compliance with any and all applicable law. If you are in a jurisdiction where download or use of the Assistant Services is prohibited or restricted or if you are below the applicable legal age required to use the Assistant Services, do not download or use the Assistant Services. Unless explicitly stated otherwise, any new features that augment or enhance the current Assistant Services shall be subject to this ATOS, which you agree to by continued use of the Assistant Services.
+
+2. DESCRIPTION AND USE OF THE ASSISTANT SERVICES
+
+a. Use of Software. As needed, you may install or download and use software in the Assistant Services including any third party software, and any authorized updates provided by Yahoo (the "Software") in object code form on a personal computer or device owned or controlled by you for your own personal, non commercial use. You are only permitted to access the Assistant Services through the Software strictly as authorized in this ATOS. The Assistant Services and its components contain software licensed from Yahoo licensors ("Licensor Software"). The Licensor Software enables the Yahoo Software to perform certain functions including, without limitation, access proprietary data on third-party data servers. Your license to the Software continues until it is terminated by either party. You may terminate the license to the Software by discontinuing use of and by destroying all copies of the Software. In addition, this Software license terminates if you violate any term of this ATOS, Yahoo publicly posts a written notice of termination on Yahoo's web site, or Yahoo sends a written notice of termination to you. If your license terminates, you agree to cease any and all use of the Assistant Services, their components, and any third-party data. All rights in any third-party data, any third-party software, and any third-party data servers, including all ownership rights are reserved and remain with the respective third parties. You agree that these third parties may enforce their rights under this ATOS against you directly in their own name and that you are solely responsible for such claims or defenses and all costs associated with them. If the Assistant Services require or include downloadable software, Yahoo may automatically download and install the latest version of the software on your device once a new version or feature is available. Some Assistant Services may let you adjust your automatic update settings. If there is a material change, Yahoo may notify you after installation.
+
+b. Saving and Accessing Information. Yahoo may save on Yahoo servers the conversations and other information that you provide when using the Assistant Services. Your use of the Assistant Services constitutes your consent to allow Yahoo to store these communications and other information on its servers for back up, security and all other purposes set forth in this ATOS. You are solely responsible for the content that you use or store in connection with the Assistant Services and if you wish, are solely responsible for backing up your data. Except as set forth herein, you acknowledge and agree that Yahoo does not guarantee that data associated with your account will be accessible to you, or that any data deleted, removed or rendered inaccessible can be provided to you.
+
+c. This ATOS grants you no right, title or interest in any intellectual property owned or licensed by Yahoo, including, without limitation, the Assistant Services and Yahoo trademarks.
+
+d. Advertisements. You understand and agree that the Assistant Services may include advertisements and that these advertisements are necessary for Yahoo to provide the Assistant Services.
+
+e. Communications from Yahoo. You also understand and agree that the Assistant Services may include certain communications from Yahoo, such as Assistant Services announcements and administrative messages and that you will not be able to opt out of receiving such communications.
+
+f. Accessing and Using the Assistant Services. In order to use the Assistant Services (for both free and charged Assistant Services), you must obtain access to the World Wide Web, either directly or through devices that access web-based content. You are responsible for and must pay any fees associated with such access and for all costs of any equipment used to gain such access (which could include third party fees).
+
+g. The Assistant Services may allow you to use different methods of communicating and sending and receiving messages, files, photos, videos and other information, including via SMS, MMS, and text messages. Your use of the Assistant Services constitutes your consent to allow Yahoo to communicate with you using these different methods as part of the Assistant Services.
+
+h. Yahoo Support. Yahoo may elect to provide you with customer support and/or upgrades, enhancements, or modifications for the Assistant Services (collectively, "Support"), in its sole discretion, and may terminate such Support at any time without notice to you. You understand and agree that in the event Yahoo elects to provide you with Support, such Support is provided voluntarily in Yahoo’s sole discretion and that it does not create any contractual right to receive Support and that you may not rely upon any statement or offer of Support to create a contractual right to Support.
+
+i. Yahoo Fees. Yahoo reserves the right to charge fees for future use of or access to the Assistant Services, or other Yahoo products and services, in Yahoo's sole discretion. If Yahoo decides to charge fees, Yahoo will provide you with prior notice.
+
+3. YAHOO PRIVACY POLICY
+
+Your access to and use of the Assistant Services constitutes acceptance of and is subject to the Yahoo Privacy Policy. You can review the most current version of the Yahoo Privacy Policy at any time by clicking on the Privacy Policy on the following link: https://policies.yahoo.com/us/en/yahoo/privacy/products/search/index.htm
+
+4. INTEROPERABILITY WITH OTHER NETWORKS.
+
+Assistant Services may be provided on platforms that are not owned by Yahoo. These platforms may have their own terms of service and privacy policy and we encourage you to review those terms of service and privacy policy.  Yahoo assumes no responsibility for those platforms nor the conduct of persons or entities with which you communicate on those platforms.
+
+5. RESTRICTIONS ON USE
+
+YOU MAY NOT and will not allow any third party to (except to the extent required by local law):
+
+a. Copy, decompile, reverse engineer, reverse assemble, disassemble, modify, rent, lease, loan, distribute, or create derivative works (as defined by the applicable local laws) or improvements (as defined by the applicable local laws) to the Assistant Services or Software or otherwise attempt to discover the source code or protocols in the Assistant Services or Software;
+
+b. Obtain or attempt to obtain unauthorized access to the Assistant Services or the Yahoo network;
+
+c. Incorporate the Assistant Services or the Software, or any portion thereof, into any other Assistant Services, software, hardware, or other technology manufactured or distributed by or for you;
+
+d. Use the Assistant Services in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this ATOS or the UTOS;
+
+e. Use the Assistant Services to operate nuclear facilities, life support, or other mission critical application where human life or property may be at stake (you specifically understand that the Assistant Services are not designed for such purposes and that their failure in such cases could lead to death, personal injury, or severe property or environmental damage for which Yahoo is not responsible); or
+
+f. Sell, lease, loan, distribute, transfer, sublicense, reproduce, duplicate, copy, trade or exploit the Assistant Services or access thereto or derive income from the use or provision of the Assistant Services, whether for direct commercial or monetary gain or otherwise, without Yahoo's prior, express and written permission.
+
+6. DISCLAIMER AND EQUIPMENT
+
+a. You understand and agree that the Assistant Services are provided "AS-IS" and that Yahoo assumes no responsibility for the timeliness, deletion, mis-delivery, or failure to store any user communications or personalization settings. You also understand that Yahoo is not responsible for the security or privacy of communications sent via the Assistant Services. You use the Assistant Services at your own risk. Yahoo disclaims responsibility for any actions you may take based on information that you may obtain from, or conversations that you may have with, the Assistant Services.
+
+b. Any required or optional equipment or third party plug-in applications that you use to use, access, or augment the Assistant Services, including your mobile or other device, whether required or optional, is subject to the terms, conditions, warranties and disclaimers provided by the manufacturer of such equipment or third party plug-in applications, and Yahoo makes no warranties or representations whatsoever regarding such equipment and third party plug-in applications. Please refer to the materials you received when you purchased the equipment or obtained the third party plug-in applications to understand your rights and obligations, including what warranties and disclaimers apply to you. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YAHOO AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES, CONDITIONS AND OTHER TERMS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO SUCH EQUIPMENT OR THIRD PARTY PLUG-IN APPLICATIONS, INCLUDING ANY IMPLIED TERMS AND WARRANTIES OF TITLE, MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AS TO THE PROVISION OF ASSISTANT SERVICES TO A STANDARD OF REASONABLE CARE AND SKILL AND AS TO NON-INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHT.
+
+7. GENERAL INFORMATION
+
+Entire Agreement. This ATOS and the UTOS and all documents incorporated therein constitute the entire agreement between you and Yahoo as it relates to your use of the Assistant Services and supersedes any prior version of this ATOS or the UTOS, if any, between you and Yahoo with respect to the Assistant Services. You also may be subject to additional terms and conditions that may apply when you use or purchase certain other Yahoo Assistant Services (including charged Assistant Services), affiliate Assistant Services, third-party content or third-party software. This ATOS will continue to govern your use of the Assistant Services unless you agree to other terms with a Yahoo company that specifically state that they supercede the previously agreed version of the “Yahoo Assistant Services Terms of Service”. If you are using the Assistant Services, in the event of a conflict between the provisions of this ATOS and the UTOS, the provisions of the ATOS shall control, as they relate to the Assistant Services.
+
+8. CHOICE OF LAW AND FORUM  
+
+The substantive law of the State of California governs the interpretation of this ATOS and applies to all claims related to it, regardless of conflict of laws principles. You and Yahoo irrevocably consent to the exclusive jurisdiction and venue of the state courts located in Santa Clara County, California or in the Federal Courts located in the Northern District of California, USA for all disputes arising out of or relating to this ATOS or arising out of or relating to the relationship between you and Yahoo regardless of the type of claim.
+
+9. OTHER
+
+a. If applicable, all Software provided to the U.S. Government pursuant to solicitations issued on or after December 1, 1995, is provided with the commercial rights and restrictions described herein. If the Assistant Services and related documentation are supplied to or purchased by or on behalf of the United States Government, if applicable, then the Assistant Services are deemed to be "commercial software" as that term is used in the Federal Acquisition Regulation system. Rights of the United States shall not exceed the minimum rights set forth in FAR 52.227-19 for "restricted computer software."
+
+b. You agree to not provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act.

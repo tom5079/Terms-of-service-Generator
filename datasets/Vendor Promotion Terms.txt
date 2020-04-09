@@ -1,0 +1,57 @@
+Vendor Promotion Terms
+ 
+These Vendor Promotion Terms (“Vendor Promotion Terms”) effective as of the Start Date are subject to the Vendor Master Terms and Conditions located at https://policies.yahoo.com/us/en/yahoo/terms/vendor/mastertnc/index.html and are part of the Agreement. Except for terms defined herein, capitalized terms used here are defined in the Vendor Master Terms and Conditions.
+
+1. PROMOTION SERVICES.
+
+1.1. Promotion Sites.
+
+(a) Setup and Configuration. Vendor will implement, configure, and set up a unique URL for each Promotion (“Promotion Site”), as required by Yahoo and/or Advertiser, including such instances when Advertiser requests a custom, Advertiser-branded URL (“Custom URL”). Vendor will not assess additional charges in connection with Promotion Services for any Custom URL. Vendor will provide the URL for each Promotion Site to Yahoo in a form and manner requested by Yahoo.
+
+(b) Hosting Services. As required by the SOW, Vendor will be responsible for hosting, maintenance, and administration of the Promotion Site(s) on Information Systems owned, leased, or otherwise used by Vendor, and the support of such data, reporting, and electronic communications capabilities as may be required to support the Promotion Site and Promotion Services.
+
+(c) Design Layout Look and Feel. Vendor will provide such creative design, layout, and look-and-feel for the Promotion Site as requested by Yahoo and/or Advertiser; provided that, in the event Advertiser elects to provide any and/or all of the creative design, layout, and look-and-feel of the Promotion Site, Vendor will ensure that the Promotion Site corresponds to Advertiser’s creative designs and look-and-feel requirements. Vendor will not modify a finalized Promotion Site without the prior written approval of Yahoo and/or Advertiser.
+
+(d) Network Security. Vendor represents, warrants, and covenants that it will comply with the Network Security Terms.
+
+1.2. Tracking. Vendor will make available to Yahoo and, upon Yahoo’s request, Advertiser, any and all reports that Vendor makes available to any third party for similar services. Notwithstanding the foregoing, reports will include the information and metrics specified in a SOW. Vendor will ensure that only Yahoo and/or Advertiser obtain access to data pertaining to such Advertiser’s Promotion(s). Vendor will provide Yahoo with a unique user ID and password for each Promotion, so that Yahoo may access all data related to such Promotion. Yahoo may, at its option, provide the user ID and password to Advertiser.
+
+1.3. Training. Vendor will provide such technical assistance and training as specified in a SOW and/or as Yahoo may reasonably request. All training services will be at no additional charge unless a fee for such training services is specified in a SOW.
+
+1.4. Testing. Vendor will run all Promotions through quality assurance testing. Yahoo and/or Advertiser may accept and/or reject the Promotion Site and/or any other Deliverables at its or their discretion.
+
+1.5. SLAs; Support. Vendor will provide the Promotion Services in accordance with any SLAs outlined in the SOW, as well as those SLAs located at https://policies.yahoo.com/us/en/yahoo/terms/vendor/promotionsla/index.html.
+
+1.6. Administration. All Promotions and Promotion Services will comply with all Laws including, as applicable, all permit requirements, and governmental licenses, guarantees, bond requirements, registrations, and reporting of prizes awarded. Vendor will develop the official rules pertaining to each Promotion, which will be subject to Advertiser’s and/or Yahoo’s review and written approval. Vendor agrees that, notwithstanding Yahoo and/or Advertiser’s assistance in connection with a Promotion, Vendor is responsible for the Promotion, including the official rules, offer terms, and regulations, and neither Yahoo nor Advertiser’s approval thereof will be deemed to constitute: (i) an opinion as to the legal appropriateness, accuracy, or adequacy of those rules, terms or regulations, or manner of use, or (ii) a waiver of Yahoo and/or Advertiser’s rights under the Agreement.
+
+2. ADDITIONAL DATA AND PRIVACY REQUIREMENTS. All data and information pertaining to a Promotion, including all reports and all information relating to Promotion Users, is Yahoo Confidential Information and Yahoo Data. Vendor has a limited right to use the data relating to a Promotion solely during the term of the applicable SOW and only as necessary to perform its obligations under the applicable SOW. All data will be gathered, used, stored, and maintained according to: (i) the Agreement, (ii) the Privacy Policy or Advertiser’s privacy policy, as specified by Yahoo, and, if applicable, Vendor’s privacy policy, (iii) applicable Laws, (iv) the official rules of the Promotion, and (v) the Promotion User’s authorization. Vendor will not accept any information from children under age 13, except pursuant to the express written direction of Yahoo to do so and then only in compliance with the Children’s Online Privacy Protection Act (“COPPA”). Vendor will ensure that any webpage related to a Promotion contains those privacy notices Yahoo and/or Advertiser may require. Vendor will not make any changes to any privacy policy, legal language, or promotion rules associated with a Promotion without written approval from Yahoo and/or Advertiser. Vendor will not provide any Personal Information to Yahoo and/or Advertiser unless expressly requested by Yahoo and/or Advertiser in writing.
+
+3. ADDITIONAL INDEMNIFICATION REQUIREMENTS. Upon or prior to Vendor’s acceptance of these Vendor Promotion Terms, Vendor will deliver to Yahoo a letter, on Vendor letterhead and executed by Vendor, as set forth below. Yahoo will provide the letter to each advertiser that enters into an agreement with Yahoo for the provision of a Promotion and/or Promotion Services. Solely for the purposes of Section 9 of the Vendor MTC, Advertiser and its Affiliates, and its and their officers, directors, consultants, contractors, agents, attorneys, and employees, will be included in the definition of Yahoo Entities. Vendor will indemnify each such advertiser in accordance with Section 9 of the Vendor MTC. Notwithstanding Section 13.3 of the Vendor MTC, each Advertiser will be a third-party beneficiary of, and may rely upon and directly enforce against Vendor, Section 9 of the Vendor MTC.
+
+Attention: Yahoo Advertiser
+
+Yahoo has an agreement with you, the advertiser named in the attached rider or agreement (“Advertiser”), to perform certain advertising/promotional services for you. Yahoo and [Full Legal Name of Vendor] (“Vendor”) have entered into a services agreement (“Agreement”) wherein Vendor will perform promotional services for Yahoo and its advertisers and will indemnify Yahoo and said advertisers for certain claims relating to the promotional services. As such, Vendor will indemnify Advertiser as follows:
+
+Vendor will indemnify, defend, and hold harmless Advertiser and its Affiliates, and its and their officers, directors, consultants, contractors, agents, attorneys, and employees, from all costs and claims, whether actual or alleged, that arise out of or in connection with the Promotion Services provided by Vendor under the Agreement, including: (i)personal injury, death, or property damage, (ii) theft, (iii) negligent or intentional misconduct, (iv) Vendor’s breach of the Agreement, and (v) payments to any Vendor personnel and/or subcontractor(s) (collectively “Claim(s)”). Vendor is solely responsible for defending any Claim against Advertiser, subject to Advertiser’s right to participate with counsel of its own choosing at its own expense, and for payment of all judgments, settlements, damages, losses, liabilities, costs, and expenses, including reasonable attorneys’ fees, resulting from all Claims against Advertiser; provided, however, that Vendor will not agree to any settlement that imposes any obligation or liability on Advertiser without such Advertiser’s prior express written consent.
+
+4. GENERAL PROVISIONS.
+
+4.1. Precedence. Except as indicated herein, these Vendor Promotion Terms supplement, but do not replace, the Vendor MTC. In the case of inconsistency or conflict between the provisions of these Vendor Promotion Terms and the Vendor MTC or any SOW, SLA, PLSS, or Change Order, the provisions of these Vendor Promotion Terms will control. Notwithstanding the foregoing, a SOW or Change Order may amend these Vendor Promotion Terms only if the amended terms contained in such a SOW or Change Order: (i) apply only to the individual SOW or Change Order and not to any other SOW or Change Order, and (ii) specifically identify the provision(s) of these Vendor Promotion Terms they amend.
+
+4.2. Survival. The following sections of these Vendor Promotion Terms will survive termination or expiration: 2, 3, 4, and 5.
+
+5. ADDITIONAL DEFINITIONS.
+
+5.1. “Advertiser” means a User that acquires a Promotion and/or Promotion Services from a Yahoo Entity.
+
+5.2. “Promotion” means a Service involving a consumer incentive program (e.g., sweepstakes, contest, game, special offer, coupon, discount, prize fulfillment, and/or other consumer promotion), as outlined in a SOW and these Vendor Promotion Terms.
+
+5.3. “Promotion Services” means Services related to a Promotion, including such tools, technology, methods, reporting, and services/products that Vendor makes available to distribute consumer incentive programs to the public.
+
+5.4. “Promotion User” means a User who accesses, uses, and/or provides data in connection with a Promotion and/or Promotion Services.
+
+5.5. “Yahoo Property” is defined in the Vendor MTC and will also include property, equipment, proprietary information, and materials provided by Advertisers and Promotion Users to Vendor, as well as all derivates of the foregoing.
+
+***
+
+These Vendor Promotion Terms were last updated June 12, 2009.

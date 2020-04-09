@@ -1,0 +1,23 @@
+Yahoo OpenID Buttons Terms of Use
+ 
+1. You may only use Yahoo’s OpenID images, graphics, and code (including javascript and html code) ("Button") under the following terms and conditions:
+
+2. You may only display the Button on your Web site.
+
+3. You may not remove, distort or alter any element of the Button (including any code) or otherwise change the size or appearance of the Button in any way.
+
+4. You may not display the Button in any manner that reasonably can be interpreted to suggest that Yahoo has authored any views, opinions, or editorial content on your Web site, or implies a relationship, affiliation, sponsorship, or endorsement by Yahoo (other than that Yahoo supports the OpenID standard.) The Button should not be the most prominent element on your web page.
+
+5. The Button must appear by itself, with a minimum spacing of 25 pixels between each side of the Logo and other graphic or textual elements on your web page.
+
+6. You may not display the Button in a manner or for a purpose that is false, misleading, defamatory, infringing, libelous, disparaging, obscene or otherwise objectionable to Yahoo, or impairing of the rights of Yahoo in its trademarks or logos, to be determined by Yahoo in its sole discretion. You may not use the Button on a site that violates any law or regulation.
+
+7. You may not frame or mirror any Yahoo page (including the page that appears in response to a click on the Button) on your web page.
+
+8. Yahoo reserves the right in its sole discretion to terminate or modify your permission to display the Button at any time and to take action against any use that does not conform to these terms and conditions, infringes any Yahoo intellectual property or other right, or violates applicable law.
+
+9. The Button incorporates copyrighted, trademarked, and other elements that are the intellectual property of Yahoo Other than as set forth in these terms and conditions, Yahoo does not grant you any right or license to the Buttons.
+
+YAHOO! DISCLAIMS ANY WARRANTIES THAT MAY BE EXPRESS OR IMPLIED BY LAW REGARDING THE BUTTON, INCLUDING WARRANTIES AGAINST INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Version 2.7.08

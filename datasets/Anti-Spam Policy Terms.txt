@@ -1,0 +1,13 @@
+Anti-Spam Policy Terms
+E-mails about Verizon Media or Vendor’s products and services, shall:
+
+not contain a falsified sender domain name or falsified IP address;
+not be routed through servers that the sender does not have explicit authorization to use;
+not contain a false or misleading subject line that attempts to disguise the content of the email or contain any misleading / deceptive content in any form;
+shall contain language in the body, the “from” line, and the subject line that clearly announces that the offer embedded in the email is being sent by Vendor;
+contain valid and responsive contact information of the sender, list manager or list owner including Vendor’s physical address;
+be sent to individuals who have given Vendor their “Affirmative Consent” as defined in Sec. 3.1 of the CAN-SPAM Act of 2003;
+not be sent for the purpose of harvesting the e-mail addresses; and
+Allow the recipient to opt-out of receiving additional emails: (a) via a link to a landing page where the user can opt-out from receiving additional emails from Vendor or (b) clearly display a return electronic mail address, that will function for a period of at least sixty (60) days from sending for a recipient to request not to receive future e-mail messages from Vendor.
+Vendor shall process each opt-out request within five (5) business days or less of receipt.
+Unless otherwise directed by Verizon Media, in writing, and approved before transmission, Vendor shall not send any email that uses: (i) a Username, (ii) an Verizon Media Mark; or (iii) any information identifying Verizon Media in the originating or return email address line, header or subject line of any email.
