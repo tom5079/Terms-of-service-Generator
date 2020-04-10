@@ -2,9 +2,38 @@
   <head>
     <!-- Load TensorFlow.js -->
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"> </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
     <script>
-      
+
+      function generateText(model, startString) {
+        let inputEval = startString.split('').map(x => characters.indexOf(x));
+        inputEval = tf.tensor1d(inputEval).expandDims(0);
+
+        temperature = 1;
+
+        text = "";
+
+        for (var i = 0; i < 1000; i++) {
+          let predictions = model.predict(inputEval);
+          predictions = tf.squeeze(predictions, 0);
+
+          predictions = predictions.div(temperature);
+
+          inputEval = inputEval.slice(1).concat(tf.multinomial(predictions, 1).slice(0, 1));
+          
+          text += characters[inputEval.dataSync()[0]];
+        }
+
+        document.body.innerText += text;
+      }
+
+      tf.loadLayersModel('https://raw.githubusercontent.com/tom5079/Terms-of-service-Generator/master/model/model.json').then((model) => {
+        $.getJSON("https://raw.githubusercontent.com/tom5079/Terms-of-service-Generator/master/characters.json", function(json) { 
+          characters = json;
+          generateText(model, "Terms of services\n");
+        })
+      });
     </script>
   </head>
 
